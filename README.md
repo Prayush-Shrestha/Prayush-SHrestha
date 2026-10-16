@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7dd3fc&height=200&section=header&text=Prayush%20Shrestha&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=45" width="100%"/>
 
 <a href="https://github.com/Prayush-Shrestha">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=7DD3FC&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Exploring+Data+Analysis+%26+Visualization;Developing+with+Next.js+%26+React;Exploring+AI%2FML+and+Data+Engineering;Learning+Full-Stack+Development" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=7DD3FC&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Exploring+Data+Analysis+%26+Visualization;Developing+with+Next.js+%26+React;Exploring+AI%2FML+and+Data+Engineering;Learning+Game+Development+with+Godot" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -29,7 +29,7 @@
 
 I'm **Prayush Shrestha**, a BSc (Hons) Computing student interested in building practical software, analyzing data, and exploring artificial intelligence.
 
-I enjoy developing responsive web applications, experimenting with machine learning, working with databases, and turning ideas into functional projects.
+I enjoy developing responsive web applications, experimenting with machine learning, working with databases, and turning ideas into functional projects. I'm also exploring game development with Godot.
 
 - BSc (Hons) Computing student
 - Interested in AI/ML, Data Engineering, Data Analysis, and Software Development
@@ -37,6 +37,7 @@ I enjoy developing responsive web applications, experimenting with machine learn
 - Exploring Python, Pandas, NumPy, and Data Visualization
 - Learning SQL, database design, and data processing
 - Exploring Cloud Technologies and Business Intelligence
+- Exploring Godot, GDScript, and 2D/3D game development
 - Building personal projects to improve my development skills
 
 ---
@@ -195,25 +196,11 @@ I'm exploring data-focused technologies and workflows to build a stronger founda
 - Data Engineering Fundamentals
 - Cloud Technologies
 - Business Intelligence and Power BI
+- Godot Engine and GDScript
+- 2D and 3D Game Development
+- Game Physics, Player Movement, and Collision Detection
+- Building Interactive Games for PC and Web
 - Building Practical and Maintainable Applications
-
----
-
-## GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Prayush-Shrestha&show_icons=true&theme=transparent&hide_border=true&title_color=7dd3fc&icon_color=7dd3fc&text_color=cbd5e1" alt="GitHub Statistics"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prayush-Shrestha&layout=compact&theme=transparent&hide_border=true&title_color=7dd3fc&text_color=cbd5e1" alt="Most Used Languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Prayush-Shrestha&theme=transparent&hide_border=true&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Contribution Streak"/>
-
-</div>
 
 ---
 
