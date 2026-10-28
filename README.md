@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7dd3fc&height=200&section=header&text=Prayush%20Shrestha&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=45" width="100%" alt="Prayush Shrestha GitHub Profile Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7dd3fc&height=200&section=header&text=Prayush%20Shrestha&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=45" width="100%" alt="Prayush Shrestha"/>
 
 <a href="https://github.com/Prayush-Shrestha">
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=7DD3FC&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Exploring+Data+Analysis+%26+Visualization;Developing+with+Next.js+%26+React;Exploring+AI%2FML+and+Data+Engineering;Learning+Game+Development+with+Godot" alt="Typing SVG"/>
@@ -214,19 +214,68 @@ I'm exploring data-focused technologies and workflows to build a stronger founda
 
 ## Currently Learning
 
-- Next.js, React, and TypeScript
-- Full-Stack Web Development
+### Web and Software Development
+
+- React, Next.js, and TypeScript
+- Responsive Web Design and UI Development
+- Full-Stack Web Application Development
+- JavaScript Programming and Application Logic
+- Writing Clean, Reusable, and Maintainable Code
+- Git, GitHub, and Version Control
+
+### Artificial Intelligence and Machine Learning
+
+- Python for AI and Machine Learning
+- Machine Learning Fundamentals
+- Supervised Learning and Classification
+- Regression and Prediction Models
+- Random Forest and Model Evaluation
+- Data Preprocessing and Feature Engineering
+- AI-Powered Application Development
+
+### Data Analysis and Data Engineering
+
 - Python for Data Analysis
-- AI and Machine Learning Fundamentals
-- Database Design and SQL
-- Data Engineering Fundamentals
-- Cloud Technologies
-- Business Intelligence and Power BI
+- Pandas and NumPy
+- Data Cleaning and Transformation
+- Exploratory Data Analysis (EDA)
+- Matplotlib and Seaborn
+- SQL Queries and Database Design
+- Data Visualization and Power BI
+- ETL Processes and Data Pipeline Fundamentals
+- Cloud Computing and Data Infrastructure
+
+### Game Development
+
 - Godot Engine and GDScript
-- 2D and 3D Game Development
-- Game Physics, Player Movement, and Collision Detection
-- Building Interactive Games
-- Building Practical and Maintainable Applications
+- 2D Game Development and Game Mechanics
+- 3D Game Development and Scene Design
+- Player Movement and Input Handling
+- Character and Object Controllers
+- Physics-Based Movement and Rigidbody Concepts
+- Collision Detection and Collision Handling
+- Gravity, Velocity, Acceleration, and Momentum
+- Camera Controls and Smooth Camera Following
+- Level Design, TileMaps, and Environment Building
+- Signals, Nodes, Scenes, and Godot's Scene System
+- Animation Systems and AnimationPlayer
+- User Interface Design for Games
+- Score Systems, Health Systems, and Game State Management
+- Timers, Checkpoints, and Respawn Mechanics
+- Car Movement, Steering, Acceleration, and Braking
+- Racing Mechanics, Track Design, and Lap Systems
+- Enemy Behaviour and Basic Game AI
+- Game Optimization and Performance
+- Debugging and Testing Gameplay
+- Exporting and Publishing Games for PC and Web
+
+### Cloud and Development Tools
+
+- Cloud Computing Fundamentals
+- AWS Services and Cloud Infrastructure
+- Git and GitHub Workflows
+- Development Environments and Debugging
+- Application Deployment Fundamentals
 
 ---
 
