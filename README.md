@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7dd3fc&height=200&section=header&text=Prayush%20Shrestha&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=45" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7dd3fc&height=200&section=header&text=Prayush%20Shrestha&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=45" width="100%" alt="Prayush Shrestha GitHub Profile Header"/>
 
 <a href="https://github.com/Prayush-Shrestha">
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=7DD3FC&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Exploring+Data+Analysis+%26+Visualization;Developing+with+Next.js+%26+React;Exploring+AI%2FML+and+Data+Engineering;Learning+Game+Development+with+Godot" alt="Typing SVG"/>
@@ -29,7 +29,7 @@
 
 I'm **Prayush Shrestha**, a BSc (Hons) Computing student interested in building practical software, analyzing data, and exploring artificial intelligence.
 
-I enjoy developing responsive web applications, experimenting with machine learning, working with databases, and turning ideas into functional projects. I'm also exploring game development with Godot.
+I enjoy developing responsive web applications, experimenting with AI-related projects, working with databases, and turning ideas into functional applications. I'm also exploring data engineering, cloud technologies, and game development.
 
 - BSc (Hons) Computing student
 - Interested in AI/ML, Data Engineering, Data Analysis, and Software Development
@@ -52,59 +52,69 @@ A stock market direction prediction dashboard using a Python FastAPI backend and
 
 [View Repository](https://github.com/Prayush-Shrestha/AI-Prediction)
 
-### 2. PSPerfume
+### 2. AI Research Helper
 
-A full-stack perfume e-commerce application featuring a modern storefront, database integration, server-side functionality, and user authentication.
+An AI-focused project exploring ways to support research-related tasks through software.
+
+**Focus:** Artificial Intelligence, Research Tools, Software Development
+
+[View Repository](https://github.com/Prayush-Shrestha/ai-research-helper)
+
+### 3. PSPerfume
+
+A perfume e-commerce project focused on building a modern online shopping experience.
 
 **Technologies:** Next.js, Node.js, Express.js, MongoDB, Clerk
 
 [View Repository](https://github.com/Prayush-Shrestha/PSPerfume)
 
-### 3. TaskFlow Management System
+### 4. TaskFlow Management System
 
-A full-stack task management application for organizing tasks, priorities, deadlines, and work assignments.
+A task management application for organizing tasks, priorities, deadlines, and work assignments.
 
 **Technologies:** React, Node.js, MySQL
 
 [View Repository](https://github.com/Prayush-Shrestha/TaskFlow-Management-System)
 
-### 4. SewaPortal
+### 5. SewaPortal
 
 A community services portal providing access to public service information, document storage, application tracking, payment management, community polls, and issue reporting.
 
 [View Repository](https://github.com/Prayush-Shrestha/SewaPortal)
 
-### 5. Hamro Khata Dashboard
+### 6. Hamro Khata Dashboard
 
-A task and employee management dashboard for tracking assignments, priorities, deadlines, and employee responsibilities.
+A dashboard project focused on organizing tasks and presenting management information through a user interface.
 
 [View Repository](https://github.com/Prayush-Shrestha/hamrokhata-dashboard)
 
-### 6. 3D Rolling Ball Adventure
+### 7. 3D Ball
 
-A 3D ball game project exploring movement, physics, obstacle navigation, and interactive gameplay using Godot.
+A 3D game project exploring ball movement, physics, and interactive gameplay.
 
-**Technologies:** Godot, GDScript, 3D Game Development
+**Focus:** 3D Game Development, Game Mechanics
 
-[View My Repositories](https://github.com/Prayush-Shrestha?tab=repositories)
+[View Repository](https://github.com/Prayush-Shrestha/3D-Ball)
 
-### 7. 2D Car Racing
+### 8. 2D Car Racing
 
-A car racing game project exploring interactive gameplay and core game mechanics.
+A 2D car racing game project exploring game mechanics and interactive gameplay.
+
+**Focus:** 2D Game Development, Game Logic
 
 [View Repository](https://github.com/Prayush-Shrestha/2Dcarracing)
 
-### 8. Smart Coursework
+### 9. Smart Coursework
 
-A data preparation project focused on cleaning, processing, and preparing coursework-related datasets using Python and Jupyter Notebook.
+A data preparation project focused on processing coursework-related datasets using Python and Jupyter Notebook.
 
-**Technologies:** Python, Jupyter Notebook, Data Preparation
+**Technologies:** Python, Jupyter Notebook
 
 [View Repository](https://github.com/Prayush-Shrestha/Smart-Coursework)
 
-### 9. Wallora
+### 10. Wallora
 
-A personal project focused on building a modern web experience.
+A personal project focused on developing a modern web experience.
 
 [View Repository](https://github.com/Prayush-Shrestha/wallora)
 
@@ -115,18 +125,34 @@ A personal project focused on building a modern web experience.
 | Project | Description |
 |---|---|
 | [To-Do-List](https://github.com/Prayush-Shrestha/To-Do-List) | Daily task management application. |
-| [Expense-Tracker](https://github.com/Prayush-Shrestha/Expense-Tracker) | Expense tracking with real-time balance calculations. |
-| [Currency](https://github.com/Prayush-Shrestha/Currency) | Currency conversion using HTML, CSS, and JavaScript. |
-| [Wecare-Store](https://github.com/Prayush-Shrestha/Wecare-Store) | Python-based inventory and skincare management system. |
-| [rock-paper-scissors](https://github.com/Prayush-Shrestha/rock-paper-scissors) | JavaScript game demonstrating DOM manipulation and game logic. |
-| [tic-tac-toe](https://github.com/Prayush-Shrestha/tic-tac-toe) | Browser-based two-player game with win and draw detection. |
+| [Expense-Tracker](https://github.com/Prayush-Shrestha/Expense-Tracker) | Expense tracking with balance calculations. |
+| [Currency](https://github.com/Prayush-Shrestha/Currency) | Currency conversion using web technologies. |
+| [Wecare-Store](https://github.com/Prayush-Shrestha/Wecare-Store) | Store management project. |
+| [rock-paper-scissors](https://github.com/Prayush-Shrestha/rock-paper-scissors) | JavaScript game demonstrating game logic. |
+| [tic-tac-toe](https://github.com/Prayush-Shrestha/tic-tac-toe) | Browser-based game with win and draw detection. |
 | [Background-Color-Change](https://github.com/Prayush-Shrestha/Background-Color-Change) | Interactive background color changing application. |
 | [Modern-Business](https://github.com/Prayush-Shrestha/Modern-Business) | Responsive business website. |
 | [bootstrap](https://github.com/Prayush-Shrestha/bootstrap) | Bootstrap learning and development. |
-| [calculator](https://github.com/Prayush-Shrestha/calculator) | Simple calculator application built with Python. |
+| [calculator](https://github.com/Prayush-Shrestha/calculator) | Calculator application built with Python. |
 | [Prayush-Shrestha](https://github.com/Prayush-Shrestha/Prayush-Shrestha) | GitHub profile README repository. |
 
 **Explore all my projects:** [GitHub Repositories](https://github.com/Prayush-Shrestha?tab=repositories)
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Prayush-Shrestha&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub Statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prayush-Shrestha&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Most Used Languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Prayush-Shrestha&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Contribution Streak"/>
+
+</div>
 
 ---
 
@@ -136,17 +162,17 @@ A personal project focused on building a modern web experience.
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp" alt="Programming Languages"/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp" alt="Programming Languages"/>
 
-JavaScript · TypeScript · Python · Java · C++
+JavaScript · TypeScript · Python · Java · C · C++
 
 <br/><br/>
 
 ### Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" alt="Frontend Technologies"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" alt="Frontend Technologies"/>
 
-HTML5 · CSS3 · React · Next.js · Tailwind CSS
+HTML5 · CSS3 · React · Next.js · Tailwind CSS · Bootstrap
 
 <br/><br/>
 
@@ -160,9 +186,9 @@ Node.js · Express.js · FastAPI · MySQL · MongoDB
 
 ### Tools and Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,aws,godot" alt="Tools and Platforms"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,aws,godot,arduino" alt="Tools and Platforms"/>
 
-Git · GitHub · Visual Studio Code · AWS · Godot
+Git · GitHub · Visual Studio Code · AWS · Godot · Arduino
 
 </div>
 
@@ -191,7 +217,7 @@ I'm exploring data-focused technologies and workflows to build a stronger founda
 - Next.js, React, and TypeScript
 - Full-Stack Web Development
 - Python for Data Analysis
-- Machine Learning Fundamentals
+- AI and Machine Learning Fundamentals
 - Database Design and SQL
 - Data Engineering Fundamentals
 - Cloud Technologies
@@ -199,7 +225,7 @@ I'm exploring data-focused technologies and workflows to build a stronger founda
 - Godot Engine and GDScript
 - 2D and 3D Game Development
 - Game Physics, Player Movement, and Collision Detection
-- Building Interactive Games for PC and Web
+- Building Interactive Games
 - Building Practical and Maintainable Applications
 
 ---
