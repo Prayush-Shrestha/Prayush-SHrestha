@@ -1,30 +1,32 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7dd3fc&height=200&section=header&text=Prayush%20Shrestha&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=45" width="100%" alt="Prayush Shrestha"/>
+<img src="./header.svg" width="100%" alt="Prayush Shrestha"/>
 
-<a href="https://github.com/Prayush-Shrestha">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=7DD3FC&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Exploring+Data+Analysis+%26+Visualization;Developing+with+Next.js+%26+React;Exploring+AI%2FML+and+Data+Engineering;Learning+Game+Development+with+Godot" alt="Typing SVG"/>
-</a>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=800&color=A8DCC2&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Exploring+Data+Analysis+%26+Visualization;Developing+with+Next.js+%26+React;Exploring+AI%2FML+and+Data+Engineering;Learning+Game+Development+with+Godot" alt="Typing SVG"/>
 
 <br/><br/>
 
 <a href="https://github.com/Prayush-Shrestha">
-<img src="https://img.shields.io/badge/GitHub-Prayush--Shrestha-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Prayush--Shrestha-183B32?style=for-the-badge&logo=github&logoColor=F4F4E9" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/prayushshrestha07/">
-<img src="https://img.shields.io/badge/LinkedIn-Prayush%20Shrestha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Prayush%20Shrestha-244D40?style=for-the-badge&logo=linkedin&logoColor=F4F4E9" alt="LinkedIn"/>
 </a>
 <a href="mailto:prayush1823@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Contact-183B32?style=for-the-badge&logo=gmail&logoColor=F4F4E9" alt="Email"/>
 </a>
 
 <br/><br/>
+
+<sub>SOFTWARE DEVELOPMENT · AI/ML · DATA ENGINEERING · DATA ANALYSIS</sub>
 
 </div>
 
 ---
 
-## About Me
+## 01 / About Me
 
 I'm **Prayush Shrestha**, a BSc (Hons) Computing student interested in building practical software, analyzing data, and exploring artificial intelligence.
 
@@ -41,9 +43,11 @@ I enjoy developing responsive web applications, experimenting with AI-related pr
 
 ---
 
-## Featured Projects
+## 02 / Featured Projects
 
-### 1. NEPSE Direction Tracker
+<sub>SELECTED WORK · SOFTWARE · AI · WEB DEVELOPMENT · GAME DEVELOPMENT</sub>
+
+### 01. NEPSE Direction Tracker
 
 A stock market direction prediction dashboard using a Python FastAPI backend and Random Forest machine learning models to estimate the next-session direction of NEPSE-listed stocks.
 
@@ -51,7 +55,7 @@ A stock market direction prediction dashboard using a Python FastAPI backend and
 
 [View Repository](https://github.com/Prayush-Shrestha/AI-Prediction)
 
-### 2. AI Research Helper
+### 02. AI Research Helper
 
 An AI-focused project exploring ways to support research-related tasks through software.
 
@@ -59,7 +63,7 @@ An AI-focused project exploring ways to support research-related tasks through s
 
 [View Repository](https://github.com/Prayush-Shrestha/ai-research-helper)
 
-### 3. PSPerfume
+### 03. PSPerfume
 
 A perfume e-commerce project focused on building a modern online shopping experience.
 
@@ -67,7 +71,7 @@ A perfume e-commerce project focused on building a modern online shopping experi
 
 [View Repository](https://github.com/Prayush-Shrestha/PSPerfume)
 
-### 4. TaskFlow Management System
+### 04. TaskFlow Management System
 
 A task management application for organizing tasks, priorities, deadlines, and work assignments.
 
@@ -75,19 +79,19 @@ A task management application for organizing tasks, priorities, deadlines, and w
 
 [View Repository](https://github.com/Prayush-Shrestha/TaskFlow-Management-System)
 
-### 5. SewaPortal
+### 05. SewaPortal
 
 A community services portal providing access to public service information, document storage, application tracking, payment management, community polls, and issue reporting.
 
 [View Repository](https://github.com/Prayush-Shrestha/SewaPortal)
 
-### 6. Hamro Khata Dashboard
+### 06. Hamro Khata Dashboard
 
 A dashboard project focused on organizing tasks and presenting management information through a user interface.
 
 [View Repository](https://github.com/Prayush-Shrestha/hamrokhata-dashboard)
 
-### 7. 3D Ball
+### 07. 3D Ball
 
 A 3D game project exploring ball movement, physics, and interactive gameplay.
 
@@ -95,7 +99,7 @@ A 3D game project exploring ball movement, physics, and interactive gameplay.
 
 [View Repository](https://github.com/Prayush-Shrestha/3D-Ball)
 
-### 8. 2D Car Racing
+### 08. 2D Car Racing
 
 A 2D car racing game project exploring game mechanics and interactive gameplay.
 
@@ -103,7 +107,7 @@ A 2D car racing game project exploring game mechanics and interactive gameplay.
 
 [View Repository](https://github.com/Prayush-Shrestha/2Dcarracing)
 
-### 9. Smart Coursework
+### 09. Smart Coursework
 
 A data preparation project focused on processing coursework-related datasets using Python and Jupyter Notebook.
 
@@ -119,7 +123,7 @@ A personal project focused on developing a modern web experience.
 
 ---
 
-## Other Projects
+## 03 / Other Projects
 
 | Project | Description |
 |---|---|
@@ -139,25 +143,45 @@ A personal project focused on developing a modern web experience.
 
 ---
 
-## GitHub Statistics
+## 04 / GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Prayush-Shrestha&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub Statistics"/>
+<sub>PROFILE OVERVIEW</sub>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prayush-Shrestha&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Most Used Languages"/>
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Prayush-Shrestha&show_icons=true&hide_border=true&bg_color=101B18&title_color=A8DCC2&text_color=F4F4E9&icon_color=8FCBB0&rank_icon=github" height="180" alt="GitHub Statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prayush-Shrestha&layout=compact&hide_border=true&bg_color=101B18&title_color=A8DCC2&text_color=F4F4E9" height="180" alt="Most Used Languages"/>
+
+<br/><br/>
+
+<sub>CONTRIBUTION STREAK</sub>
 
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Prayush-Shrestha&hide_border=true&background=FFFFFF&ring=183B32&fire=244D40&currStreakLabel=183B32&sideLabels=183B32&currStreakNum=183B32&sideNums=183B32&dates=687A70" width="75%" alt="GitHub Contribution Streak"/>
 
+<br/><br/>
+
+<sub>CONTRIBUTION ACTIVITY</sub>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prayush-Shrestha&bg_color=101B18&color=A8DCC2&line=8FCBB0&point=F4F4E9&area=true&hide_border=true" width="95%" alt="GitHub Activity Graph"/>
+
 </div>
 
 ---
 
-## Tech Stack
+## 05 / Tech Stack
 
 <div align="center">
+
+<sub>TOOLS AND TECHNOLOGIES</sub>
+
+<br/><br/>
 
 ### Programming Languages
 
@@ -193,7 +217,7 @@ Git · GitHub · Visual Studio Code · AWS · Godot · Arduino
 
 ---
 
-## Data Analysis and Engineering
+## 06 / Data Analysis and Engineering
 
 I'm exploring data-focused technologies and workflows to build a stronger foundation in analytics, machine learning, and data engineering.
 
@@ -211,7 +235,7 @@ I'm exploring data-focused technologies and workflows to build a stronger founda
 
 ---
 
-## Currently Learning
+## 07 / Currently Learning
 
 ### Web and Software Development
 
@@ -278,26 +302,28 @@ I'm exploring data-focused technologies and workflows to build a stronger founda
 
 ---
 
-## Connect With Me
+## 08 / Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/Prayush-Shrestha">
-<img src="https://img.shields.io/badge/GitHub-Prayush--Shrestha-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Prayush--Shrestha-183B32?style=for-the-badge&logo=github&logoColor=F4F4E9" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/prayushshrestha07/">
-<img src="https://img.shields.io/badge/LinkedIn-Prayush%20Shrestha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Prayush%20Shrestha-244D40?style=for-the-badge&logo=linkedin&logoColor=F4F4E9" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:prayush1823@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-prayush1823%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Gmail-prayush1823%40gmail.com-183B32?style=for-the-badge&logo=gmail&logoColor=F4F4E9" alt="Email"/>
 </a>
 
 <br/><br/>
 
-### Building. Learning. Improving.
+<sub>OPEN TO LEARNING · BUILDING · COLLABORATING</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0f172a&height=120&section=footer" width="100%" alt="Footer"/>
+<br/><br/>
+
+<img src="./footer.svg" width="100%" alt="Build Learn Improve"/>
 
 </div>
