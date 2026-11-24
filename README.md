@@ -14,7 +14,7 @@
 
 Hi, I'm **Prayush Shrestha**, a BSc (Hons) Computing student and software developer based in Kathmandu, Nepal.
 
-I like turning ideas into practical software, from full-stack web applications to machine learning experiments and data analysis. My interests meet at **software development, AI and machine learning, data analytics, data engineering and cloud computing**.
+I like turning ideas into practical software, from full-stack web applications to machine learning experiments and data analysis. My interests meet at **software development, AI and machine learning, data analytics, data engineering and cloud engineering**.
 
 Right now I'm strengthening my foundation through hands-on projects, experiments and steady learning.
 
