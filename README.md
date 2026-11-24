@@ -205,35 +205,61 @@ A 2D car racing game project exploring game mechanics and interactive gameplay.
 ### 04 — AI, Machine Learning & Data
 
 <div align="center">
+
+**DATA ANALYTICS & VISUALIZATION**
+
 <table>
 <tr>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=python" width="42" alt="Python"/><br/>Python</td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=aws" width="42" alt="AWS"/><br/>AWS</td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=mysql" width="42" alt="MySQL"/><br/>SQL</td>
+<td align="center" width="110"><img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" height="25" alt="Pandas"/><br/>Pandas</td>
+<td align="center" width="110"><img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" height="25" alt="NumPy"/><br/>NumPy</td>
+<td align="center" width="110"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white" height="25" alt="Matplotlib"/><br/>Matplotlib</td>
+<td align="center" width="110"><img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white" height="25" alt="Seaborn"/><br/>Seaborn</td>
 </tr>
 </table>
+
+<table>
+<tr>
+<td align="center" width="140"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=222222" height="25" alt="Power BI"/><br/>Power BI</td>
+<td align="center" width="140"><img src="https://skillicons.dev/icons?i=mysql" width="42" alt="SQL"/><br/>SQL</td>
+</tr>
+</table>
+
+<br/>
+
+**AI / MACHINE LEARNING**
+
+<table>
+<tr>
+<td align="center" width="130"><img src="https://skillicons.dev/icons?i=python" width="42" alt="Python"/><br/>Python</td>
+<td align="center" width="130"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" height="25" alt="Scikit-learn"/><br/>Scikit-learn</td>
+<td align="center" width="130"><img src="https://img.shields.io/badge/Classification-183B32?style=flat&logo=python&logoColor=white" height="25" alt="Classification"/><br/>Classification</td>
+<td align="center" width="130"><img src="https://img.shields.io/badge/Regression-244D40?style=flat&logo=python&logoColor=white" height="25" alt="Regression"/><br/>Regression</td>
+</tr>
+<tr>
+<td align="center" width="130"><img src="https://img.shields.io/badge/Random_Forest-183B32?style=flat&logo=treehouse&logoColor=white" height="25" alt="Random Forest"/><br/>Random Forest</td>
+<td align="center" width="130"><img src="https://img.shields.io/badge/Model_Evaluation-244D40?style=flat&logo=checkmarx&logoColor=white" height="25" alt="Model Evaluation"/><br/>Model Evaluation</td>
+<td align="center" width="130"><img src="https://img.shields.io/badge/Feature_Engineering-183B32?style=flat&logo=python&logoColor=white" height="25" alt="Feature Engineering"/><br/>Feature Engineering</td>
+<td align="center" width="130"><img src="https://img.shields.io/badge/Data_Preprocessing-244D40?style=flat&logo=python&logoColor=white" height="25" alt="Data Preprocessing"/><br/>Data Preprocessing</td>
+</tr>
+</table>
+
+<br/>
+
+**DATA ENGINEERING**
+
+<table>
+<tr>
+<td align="center" width="130"><img src="https://skillicons.dev/icons?i=mysql" width="42" alt="MySQL"/><br/>MySQL</td>
+<td align="center" width="130"><img src="https://skillicons.dev/icons?i=aws" width="42" alt="AWS"/><br/>AWS</td>
+<td align="center" width="130"><img src="https://img.shields.io/badge/ETL-183B32?style=flat&logo=databricks&logoColor=white" height="25" alt="ETL"/><br/>ETL</td>
+<td align="center" width="130"><img src="https://img.shields.io/badge/Data_Pipelines-244D40?style=flat&logo=apacheairflow&logoColor=white" height="25" alt="Data Pipelines"/><br/>Data Pipelines</td>
+</tr>
+</table>
+
+<br/>
+
 </div>
-
-**Data Analytics & Visualization**
-
-| Technology | Area |
-|:--|:--|
-| Pandas | Data manipulation and analysis |
-| NumPy | Numerical computing |
-| Matplotlib | Data visualization |
-| Seaborn | Statistical visualization |
-| Power BI | Business intelligence and reporting |
-| SQL | Data querying and database operations |
-
-**AI/ML & Data Engineering Concepts**
-
-- Machine Learning Fundamentals
-- Supervised Learning and Classification
-- Regression and Prediction Models
-- Random Forest and Model Evaluation
-- Data Preprocessing and Feature Engineering
-- Data Cleaning and Exploratory Data Analysis
-- ETL and Data Pipeline Fundamentals
 
 ### 05 — Development Tools & Platforms
 
