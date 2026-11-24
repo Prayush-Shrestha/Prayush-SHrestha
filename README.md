@@ -1,10 +1,9 @@
+
 <div align="center">
 
-<img src="./header.svg" width="100%" alt="Prayush Shrestha - Software Developer" />
+<img src="./header.svg" width="100%" alt="Prayush Shrestha — Software Developer, AI/ML, Data Analytics, Data Engineering and Cloud" />
 
-### SOFTWARE DEVELOPER · AI/ML · DATA ENGINEERING
-
-*Building useful things. Exploring intelligent systems. Learning by doing.*
+*Building useful software. Exploring intelligent systems. Turning data into insights.*
 
 [GitHub](https://github.com/Prayush-Shrestha) · [LinkedIn](https://www.linkedin.com/in/prayushshrestha07/) · [Email](mailto:prayush1823@gmail.com)
 
@@ -16,21 +15,22 @@
 
 Hi, I'm **Prayush Shrestha**, a BSc (Hons) Computing student and software developer from Kathmandu, Nepal.
 
-I enjoy turning ideas into practical software — from full-stack web applications to machine learning experiments and data-driven systems.
+I enjoy turning ideas into practical software — from full-stack web applications and machine learning experiments to data analysis and data-driven systems.
 
-My current direction is **AI/ML + Data Engineering + Cloud**, supported by a foundation in full-stack development.
+My interests bring together **Software Development, AI/ML, Data Analytics, Data Engineering and Cloud Computing**. I'm building my skills through practical projects, experimentation and continuous learning.
 
 - Building web applications and backend systems.
 - Exploring machine learning and AI-powered applications.
-- Learning data processing, analytics, and engineering workflows.
+- Working with data analysis, visualization and reporting.
+- Learning data processing, ETL and data pipeline concepts.
+- Exploring cloud technologies and application deployment.
 - Experimenting with interactive applications and game development.
-- Improving through practical projects and continuous learning.
 
 ---
 
 ## 02 / Selected Projects
 
-A selection of projects showcasing my interests in software development, AI, web applications, and interactive systems.
+A selection of projects showcasing my work and interests across software development, AI, data-driven applications and interactive systems.
 
 <table>
 <tr>
@@ -38,7 +38,7 @@ A selection of projects showcasing my interests in software development, AI, web
 
 ### 01. NEPSE Direction Tracker
 
-A stock market direction prediction dashboard using FastAPI and Random Forest machine learning models to estimate the next-session direction of NEPSE-listed stocks.
+A stock market direction prediction dashboard using a Python FastAPI backend and Random Forest machine learning models to estimate the next-session direction of NEPSE-listed stocks.
 
 **Stack:** Python · FastAPI · Random Forest · Next.js
 
@@ -73,7 +73,7 @@ A perfume e-commerce project focused on building a modern online shopping experi
 
 ### 04. TaskFlow Management System
 
-A task management application for organizing tasks, priorities, deadlines, and work assignments.
+A task management application for organizing tasks, priorities, deadlines and work assignments.
 
 **Stack:** React · Node.js · MySQL
 
@@ -86,7 +86,7 @@ A task management application for organizing tasks, priorities, deadlines, and w
 
 ### 05. SewaPortal
 
-A community services portal providing public service information, document storage, application tracking, payment management, community polls, and issue reporting.
+A community services portal providing public service information, document storage, application tracking, payment management, community polls and issue reporting.
 
 **Focus:** Web Development · Community Services
 
@@ -110,7 +110,7 @@ A dashboard project focused on organizing tasks and presenting management inform
 
 ### 07. 3D Ball
 
-A 3D game project exploring ball movement, physics, and interactive gameplay.
+A 3D game project exploring ball movement, physics and interactive gameplay.
 
 **Focus:** 3D Game Development · Game Mechanics
 
@@ -136,12 +136,12 @@ A 2D car racing game project exploring game mechanics and interactive gameplay.
 <br/>
 
 <a href="https://github.com/Prayush-Shrestha?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-183B32?style=for-the-badge&logo=github&logoColor=F4F4E9" alt="Explore all GitHub projects" />
+<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-183B32?style=for-the-badge&logo=github&logoColor=F4F4E9" alt="Explore all GitHub projects" />
 </a>
 
 <br/><br/>
 
-*More projects, experiments, and development work.*
+*More projects, experiments and development work.*
 
 </div>
 
@@ -153,7 +153,7 @@ A 2D car racing game project exploring game mechanics and interactive gameplay.
 
 ### THE TOOLS BEHIND MY WORK
 
-*Languages, frameworks, databases, and platforms I use and explore.*
+*Technologies I use, practise and explore through projects and learning.*
 
 </div>
 
@@ -201,29 +201,38 @@ A 2D car racing game project exploring game mechanics and interactive gameplay.
 </table>
 </div>
 
-### 04 — AI, Data & Analytics
+### 04 — AI, Machine Learning & Data
 
 <div align="center">
 <table>
 <tr>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=pytorch" width="42" alt="PyTorch"/><br/>PyTorch</td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=tensorflow" width="42" alt="TensorFlow"/><br/>TensorFlow</td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=python" width="42" alt="Python"/><br/>Python</td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=aws" width="42" alt="AWS"/><br/>AWS</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=mysql" width="42" alt="SQL and MySQL"/><br/>SQL</td>
 </tr>
 </table>
 </div>
 
-**Data & Analytics Tools**
+**Data Analytics & Visualization**
 
-| Technology | What it is used for |
+| Technology | Area |
 |:--|:--|
 | Pandas | Data manipulation and analysis |
 | NumPy | Numerical computing |
 | Matplotlib | Data visualization |
 | Seaborn | Statistical visualization |
-| SQL | Database querying |
 | Power BI | Business intelligence and reporting |
+| SQL | Data querying and database operations |
+
+**AI/ML & Data Engineering Concepts**
+
+- Machine Learning Fundamentals
+- Supervised Learning and Classification
+- Regression and Prediction Models
+- Random Forest and Model Evaluation
+- Data Preprocessing and Feature Engineering
+- Data Cleaning and Exploratory Data Analysis
+- ETL and Data Pipeline Fundamentals
 
 ### 05 — Development Tools & Platforms
 
@@ -241,21 +250,27 @@ A 2D car racing game project exploring game mechanics and interactive gameplay.
 
 ---
 
-## 04 / Data Analysis & Engineering
+## 04 / Data Analytics & Engineering
 
-I'm exploring data-focused technologies and workflows to build a stronger foundation in analytics, machine learning, and data engineering.
+I'm developing a stronger foundation in data analytics and engineering through data-focused learning and practical projects.
 
+**Data Analytics**
 - Python for Data Analysis
 - Pandas and NumPy
-- Matplotlib and Seaborn
-- SQL and MySQL
 - Data Cleaning and Preparation
 - Exploratory Data Analysis (EDA)
+- Matplotlib and Seaborn
+- SQL and MySQL
 - Data Visualization
 - Business Intelligence and Power BI
-- Machine Learning Fundamentals
-- Data Pipelines and ETL Concepts
-- Cloud Computing and Data Infrastructure
+
+**Data Engineering**
+- Data Processing and Transformation
+- ETL Concepts
+- Data Pipeline Fundamentals
+- Database Design and Management
+- Cloud Computing Fundamentals
+- Data Infrastructure Concepts
 
 ---
 
@@ -271,7 +286,7 @@ I'm exploring data-focused technologies and workflows to build a stronger founda
 - Data Preprocessing and Feature Engineering
 - AI-Powered Application Development
 
-### Data Analysis & Data Engineering
+### Data Analytics & Data Engineering
 
 - Python for Data Analysis
 - Pandas and NumPy
@@ -285,13 +300,13 @@ I'm exploring data-focused technologies and workflows to build a stronger founda
 
 ### Web & Software Development
 
-- React, Next.js, and TypeScript
+- React, Next.js and TypeScript
 - Responsive Web Design and UI Development
 - Full-Stack Web Application Development
 - JavaScript Programming and Application Logic
-- Writing Clean, Reusable, and Maintainable Code
+- Clean, Reusable and Maintainable Code
 - REST API Development
-- Git, GitHub, and Version Control
+- Git, GitHub and Version Control
 
 ### Game Development
 
@@ -302,16 +317,16 @@ I'm exploring data-focused technologies and workflows to build a stronger founda
 - Character and Object Controllers
 - Physics-Based Movement and Rigidbody Concepts
 - Collision Detection and Collision Handling
-- Gravity, Velocity, Acceleration, and Momentum
+- Gravity, Velocity, Acceleration and Momentum
 - Camera Controls and Smooth Camera Following
-- Level Design, TileMaps, and Environment Building
-- Signals, Nodes, Scenes, and Godot's Scene System
+- Level Design, TileMaps and Environment Building
+- Signals, Nodes, Scenes and Godot's Scene System
 - Animation Systems and AnimationPlayer
 - User Interface Design for Games
-- Score Systems, Health Systems, and Game State Management
-- Timers, Checkpoints, and Respawn Mechanics
-- Car Movement, Steering, Acceleration, and Braking
-- Racing Mechanics, Track Design, and Lap Systems
+- Score Systems, Health Systems and Game State Management
+- Timers, Checkpoints and Respawn Mechanics
+- Car Movement, Steering, Acceleration and Braking
+- Racing Mechanics, Track Design and Lap Systems
 - Enemy Behaviour and Basic Game AI
 - Game Optimization and Performance
 - Debugging and Testing Gameplay
@@ -376,7 +391,7 @@ More experiments and smaller applications from my development journey.
 
 ## 08 / Connect With Me
 
-I'm always interested in learning, building projects, and connecting with people in software development, AI, and data engineering.
+I'm always interested in learning, building projects and connecting with people in software development, AI and data.
 
 <div align="center">
 
@@ -388,8 +403,6 @@ I'm always interested in learning, building projects, and connecting with people
 
 ### Curiosity drives the process. Consistency builds the results.
 
-**BUILD · LEARN · IMPROVE**
-
-<img src="./footer.svg" width="100%" alt="Build Learn Improve - Thank you for visiting my profile" />
+<img src="./footer.svg" width="100%" alt="Build Learn Improve — Thank you for visiting my profile" />
 
 </div>
