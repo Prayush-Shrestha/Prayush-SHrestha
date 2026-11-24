@@ -1,5 +1,4 @@
-
-<div align="center">
+ <div align="center">
 
 <img src="./header.svg" width="100%" alt="Prayush Shrestha - Software Developer"/>
 
@@ -11,15 +10,9 @@ Building useful things. Exploring intelligent systems. Learning by doing.
 
 <br/>
 
-<a href="https://github.com/Prayush-Shrestha">
-  <img src="https://img.shields.io/badge/GitHub-183B32?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/prayushshrestha07/">
-  <img src="https://img.shields.io/badge/LinkedIn-183B32?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:prayush1823@gmail.com">
-  <img src="https://img.shields.io/badge/Email-183B32?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<a href="https://github.com/Prayush-Shrestha"><img src="https://img.shields.io/badge/GitHub-183B32?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/prayushshrestha07/"><img src="https://img.shields.io/badge/LinkedIn-183B32?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:prayush1823@gmail.com"><img src="https://img.shields.io/badge/Email-183B32?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
 
@@ -278,39 +271,4 @@ A personal project focused on creating a modern web experience.
 
 A few more experiments and smaller applications:
 
-- [To-Do List](https://github.com/Prayush-Shrestha/To-Do-List)
-- [Expense Tracker](https://github.com/Prayush-Shrestha/Expense-Tracker)
-- [Currency Converter](https://github.com/Prayush-Shrestha/Currency)
-- [Wecare Store](https://github.com/Prayush-Shrestha/Wecare-Store)
-- [Rock Paper Scissors](https://github.com/Prayush-Shrestha/rock-paper-scissors)
-- [Tic Tac Toe](https://github.com/Prayush-Shrestha/tic-tac-toe)
-- [Background Color Change](https://github.com/Prayush-Shrestha/Background-Color-Change)
-- [Modern Business](https://github.com/Prayush-Shrestha/Modern-Business)
-- [Bootstrap](https://github.com/Prayush-Shrestha/bootstrap)
-- [Calculator](https://github.com/Prayush-Shrestha/calculator)
-
----
-
-## 06 / GitHub
-
-<div align="center">
-
-<a href="https://github.com/Prayush-Shrestha">
-  <img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-183B32?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub"/>
-</a>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/prayushshrestha07/">LinkedIn</a>
-&nbsp; · &nbsp;
-<a href="mailto:prayush1823@gmail.com">Email</a>
-&nbsp; · &nbsp;
-<a href="https://github.com/Prayush-Shrestha?tab=repositories">Repositories</a>
-
-<br/><br/>
-
-### Curiosity drives the process. Consistency builds the results.
-
-<sub>DESIGNED WITH PURPOSE · BUILT THROUGH EXPERIENCE</sub>
-
-</div>
+- [To-Do List](https
