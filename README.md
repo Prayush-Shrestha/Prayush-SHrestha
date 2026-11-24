@@ -1,9 +1,8 @@
-
-<div align="center">
+ <div align="center">
 
 <img src="./header.svg" width="100%" alt="Prayush Shrestha — Software Developer, AI/ML, Data Analytics, Data Engineering and Cloud" />
 
-*Building useful software. Exploring intelligent systems. Turning data into insights.*
+**Building useful software. Exploring intelligent systems. Turning data into insights.**
 
 [GitHub](https://github.com/Prayush-Shrestha) · [LinkedIn](https://www.linkedin.com/in/prayushshrestha07/) · [Email](mailto:prayush1823@gmail.com)
 
@@ -13,13 +12,15 @@
 
 ## 01 / About Me
 
-Hi, I'm **Prayush Shrestha**, a BSc (Hons) Computing student and software developer from Kathmandu, Nepal.
+Hi, I'm **Prayush Shrestha**, a BSc (Hons) Computing student and software developer based in Kathmandu, Nepal.
 
 I enjoy turning ideas into practical software — from full-stack web applications and machine learning experiments to data analysis and data-driven systems.
 
-My interests bring together **Software Development, AI/ML, Data Analytics, Data Engineering and Cloud Computing**. I'm building my skills through practical projects, experimentation and continuous learning.
+My interests combine **Software Development, Artificial Intelligence, Machine Learning, Data Analytics, Data Engineering and Cloud Computing**.
 
-- Building web applications and backend systems.
+Currently, I'm focused on strengthening my technical foundation through hands-on projects, experimentation and continuous learning.
+
+- Building full-stack web applications and backend systems.
 - Exploring machine learning and AI-powered applications.
 - Working with data analysis, visualization and reporting.
 - Learning data processing, ETL and data pipeline concepts.
@@ -30,7 +31,7 @@ My interests bring together **Software Development, AI/ML, Data Analytics, Data 
 
 ## 02 / Selected Projects
 
-A selection of projects showcasing my work and interests across software development, AI, data-driven applications and interactive systems.
+A selection of projects that represent my development journey and interests across software, AI, data and interactive applications.
 
 <table>
 <tr>
@@ -62,7 +63,7 @@ An AI-focused project exploring ways to support research-related tasks through s
 
 ### 03. PSPerfume
 
-A perfume e-commerce project focused on building a modern online shopping experience.
+A perfume e-commerce project focused on creating a modern online shopping experience.
 
 **Stack:** Next.js · Node.js · Express.js · MongoDB · Clerk
 
@@ -136,7 +137,7 @@ A 2D car racing game project exploring game mechanics and interactive gameplay.
 <br/>
 
 <a href="https://github.com/Prayush-Shrestha?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-183B32?style=for-the-badge&logo=github&logoColor=F4F4E9" alt="Explore all GitHub projects" />
+<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-183B32?style=for-the-badge&logo=github&logoColor=F4F4E9" alt="Explore all GitHub projects"/>
 </a>
 
 <br/><br/>
@@ -208,7 +209,7 @@ A 2D car racing game project exploring game mechanics and interactive gameplay.
 <tr>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=python" width="42" alt="Python"/><br/>Python</td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=aws" width="42" alt="AWS"/><br/>AWS</td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=mysql" width="42" alt="SQL and MySQL"/><br/>SQL</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=mysql" width="42" alt="MySQL"/><br/>SQL</td>
 </tr>
 </table>
 </div>
@@ -255,6 +256,7 @@ A 2D car racing game project exploring game mechanics and interactive gameplay.
 I'm developing a stronger foundation in data analytics and engineering through data-focused learning and practical projects.
 
 **Data Analytics**
+
 - Python for Data Analysis
 - Pandas and NumPy
 - Data Cleaning and Preparation
@@ -265,6 +267,7 @@ I'm developing a stronger foundation in data analytics and engineering through d
 - Business Intelligence and Power BI
 
 **Data Engineering**
+
 - Data Processing and Transformation
 - ETL Concepts
 - Data Pipeline Fundamentals
@@ -373,17 +376,17 @@ More experiments and smaller applications from my development journey.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prayush-Shrestha&show_icons=true&hide_border=true&bg_color=101B18&title_color=A8DCC2&text_color=F4F4E9&icon_color=8FCBB0&rank_icon=github" alt="GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prayush-Shrestha&show_icons=true&hide_border=true&bg_color=101B18&title_color=A8DCC2&text_color=F4F4E9&icon_color=8FCBB0&rank_icon=github" alt="GitHub statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prayush-Shrestha&layout=compact&hide_border=true&bg_color=101B18&title_color=A8DCC2&text_color=F4F4E9" alt="Most used programming languages" />
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Prayush-Shrestha&hide_border=true&background=FFFFFF&ring=183B32&fire=244D40&currStreakLabel=183B32&sideLabels=183B32&currStreakNum=183B32&sideNums=183B32&dates=687A70" alt="GitHub contribution streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prayush-Shrestha&layout=compact&hide_border=true&bg_color=101B18&title_color=A8DCC2&text_color=F4F4E9" alt="Most used programming languages"/>
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prayush-Shrestha&bg_color=101B18&color=A8DCC2&line=8FCBB0&point=F4F4E9&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+<img width="70%" src="https://streak-stats.demolab.com?user=Prayush-Shrestha&hide_border=true&background=FFFFFF&ring=183B32&fire=244D40&currStreakLabel=183B32&sideLabels=183B32&currStreakNum=183B32&sideNums=183B32&dates=687A70" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prayush-Shrestha&bg_color=101B18&color=A8DCC2&line=8FCBB0&point=F4F4E9&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
 
 </div>
 
@@ -403,6 +406,8 @@ I'm always interested in learning, building projects and connecting with people 
 
 ### Curiosity drives the process. Consistency builds the results.
 
-<img src="./footer.svg" width="100%" alt="Build Learn Improve — Thank you for visiting my profile" />
+<br/>
+
+<img src="./footer.svg" width="100%" alt="Build Learn Improve — Thank you for visiting my profile"/>
 
 </div>
