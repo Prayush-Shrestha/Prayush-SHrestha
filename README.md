@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="./header.svg" width="100%" alt="Prayush Shrestha - Software Developer" />
 
@@ -28,17 +28,24 @@ My current direction is **AI/ML + Data Engineering + Cloud**, supported by a fou
 
 ---
 
-## 02 / Featured Projects
+## 02 / Selected Projects
 
-A selection of projects from my development journey.
+A selection of projects showcasing my interests in software development, AI, web applications, and interactive systems.
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 01. NEPSE Direction Tracker
 
-A stock market direction prediction dashboard using a Python FastAPI backend and Random Forest machine learning models to estimate the next-session direction of NEPSE-listed stocks.
+A stock market direction prediction dashboard using FastAPI and Random Forest machine learning models to estimate the next-session direction of NEPSE-listed stocks.
 
-**Technologies:** Python · FastAPI · Random Forest · Machine Learning · Next.js
+**Stack:** Python · FastAPI · Random Forest · Next.js
 
-[View Project →](https://github.com/Prayush-Shrestha/AI-Prediction)
+[View Repository →](https://github.com/Prayush-Shrestha/AI-Prediction)
+
+</td>
+<td width="50%" valign="top">
 
 ### 02. AI Research Helper
 
@@ -46,31 +53,47 @@ An AI-focused project exploring ways to support research-related tasks through s
 
 **Focus:** Artificial Intelligence · Research Tools · Software Development
 
-[View Project →](https://github.com/Prayush-Shrestha/ai-research-helper)
+[View Repository →](https://github.com/Prayush-Shrestha/ai-research-helper)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 03. PSPerfume
 
-A perfume e-commerce application focused on creating a modern online shopping experience.
+A perfume e-commerce project focused on building a modern online shopping experience.
 
-**Technologies:** Next.js · Node.js · Express.js · MongoDB · Clerk
+**Stack:** Next.js · Node.js · Express.js · MongoDB · Clerk
 
-[View Project →](https://github.com/Prayush-Shrestha/PSPerfume)
+[View Repository →](https://github.com/Prayush-Shrestha/PSPerfume)
+
+</td>
+<td width="50%" valign="top">
 
 ### 04. TaskFlow Management System
 
 A task management application for organizing tasks, priorities, deadlines, and work assignments.
 
-**Technologies:** React · Node.js · MySQL
+**Stack:** React · Node.js · MySQL
 
-[View Project →](https://github.com/Prayush-Shrestha/TaskFlow-Management-System)
+[View Repository →](https://github.com/Prayush-Shrestha/TaskFlow-Management-System)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 05. SewaPortal
 
-A community services portal providing access to public service information, document storage, application tracking, payment management, community polls, and issue reporting.
+A community services portal providing public service information, document storage, application tracking, payment management, community polls, and issue reporting.
 
-**Focus:** Web Development · Community Services · Application Management
+**Focus:** Web Development · Community Services
 
-[View Project →](https://github.com/Prayush-Shrestha/SewaPortal)
+[View Repository →](https://github.com/Prayush-Shrestha/SewaPortal)
+
+</td>
+<td width="50%" valign="top">
 
 ### 06. Hamro Khata Dashboard
 
@@ -78,7 +101,12 @@ A dashboard project focused on organizing tasks and presenting management inform
 
 **Focus:** Dashboard Development · Web Development
 
-[View Project →](https://github.com/Prayush-Shrestha/hamrokhata-dashboard)
+[View Repository →](https://github.com/Prayush-Shrestha/hamrokhata-dashboard)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 07. 3D Ball
 
@@ -86,7 +114,10 @@ A 3D game project exploring ball movement, physics, and interactive gameplay.
 
 **Focus:** 3D Game Development · Game Mechanics
 
-[View Project →](https://github.com/Prayush-Shrestha/3D-Ball)
+[View Repository →](https://github.com/Prayush-Shrestha/3D-Ball)
+
+</td>
+<td width="50%" valign="top">
 
 ### 08. 2D Car Racing
 
@@ -94,27 +125,23 @@ A 2D car racing game project exploring game mechanics and interactive gameplay.
 
 **Focus:** 2D Game Development · Game Logic
 
-[View Project →](https://github.com/Prayush-Shrestha/2Dcarracing)
+[View Repository →](https://github.com/Prayush-Shrestha/2Dcarracing)
 
-### 09. Smart Coursework
-
-A data preparation project focused on processing coursework-related datasets using Python and Jupyter Notebook.
-
-**Technologies:** Python · Jupyter Notebook
-
-[View Project →](https://github.com/Prayush-Shrestha/Smart-Coursework)
-
-### 10. Wallora
-
-A personal project focused on developing a modern web experience.
-
-**Focus:** Web Development · User Interface
-
-[View Project →](https://github.com/Prayush-Shrestha/wallora)
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-[EXPLORE ALL REPOSITORIES →](https://github.com/Prayush-Shrestha?tab=repositories)
+<br/>
+
+<a href="https://github.com/Prayush-Shrestha?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-183B32?style=for-the-badge&logo=github&logoColor=F4F4E9" alt="Explore all GitHub projects" />
+</a>
+
+<br/><br/>
+
+*More projects, experiments, and development work.*
 
 </div>
 
@@ -122,42 +149,95 @@ A personal project focused on developing a modern web experience.
 
 ## 03 / Technology Stack
 
-Technologies and tools I use or explore through development and personal projects.
-
-### Programming Languages
-
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp&theme=dark" alt="Programming languages" />
+
+### THE TOOLS BEHIND MY WORK
+
+*Languages, frameworks, databases, and platforms I use and explore.*
+
 </div>
 
-### Frontend Development
+### 01 — Programming Languages
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&theme=dark" alt="Frontend technologies" />
+<table>
+<tr>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=js" width="42" alt="JavaScript"/><br/>JavaScript</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=ts" width="42" alt="TypeScript"/><br/>TypeScript</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=python" width="42" alt="Python"/><br/>Python</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=java" width="42" alt="Java"/><br/>Java</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=c" width="42" alt="C"/><br/>C</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=cpp" width="42" alt="C++"/><br/>C++</td>
+</tr>
+</table>
 </div>
 
-### Backend & Databases
+### 02 — Frontend Development
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mysql,mongodb&theme=dark" alt="Backend and databases" />
+<table>
+<tr>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=html" width="42" alt="HTML5"/><br/>HTML5</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=css" width="42" alt="CSS3"/><br/>CSS3</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=react" width="42" alt="React"/><br/>React</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=nextjs" width="42" alt="Next.js"/><br/>Next.js</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=tailwind" width="42" alt="Tailwind CSS"/><br/>Tailwind CSS</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=bootstrap" width="42" alt="Bootstrap"/><br/>Bootstrap</td>
+</tr>
+</table>
 </div>
 
-### Tools & Platforms
+### 03 — Backend & Databases
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,aws,godot,arduino&theme=dark" alt="Development tools and platforms" />
+<table>
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=nodejs" width="42" alt="Node.js"/><br/>Node.js</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=express" width="42" alt="Express.js"/><br/>Express.js</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=fastapi" width="42" alt="FastAPI"/><br/>FastAPI</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=mysql" width="42" alt="MySQL"/><br/>MySQL</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=mongodb" width="42" alt="MongoDB"/><br/>MongoDB</td>
+</tr>
+</table>
 </div>
 
-### Additional Technologies & Concepts
+### 04 — AI, Data & Analytics
 
-- REST API Development
-- Full-Stack Application Development
-- Database Design and Management
-- Authentication and Authorization
-- Data Structures and Algorithms
-- Responsive Web Design
-- Version Control and Collaboration
-- Cloud Computing Fundamentals
+<div align="center">
+<table>
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=pytorch" width="42" alt="PyTorch"/><br/>PyTorch</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=tensorflow" width="42" alt="TensorFlow"/><br/>TensorFlow</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=python" width="42" alt="Python"/><br/>Python</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=aws" width="42" alt="AWS"/><br/>AWS</td>
+</tr>
+</table>
+</div>
+
+**Data & Analytics Tools**
+
+| Technology | What it is used for |
+|:--|:--|
+| Pandas | Data manipulation and analysis |
+| NumPy | Numerical computing |
+| Matplotlib | Data visualization |
+| Seaborn | Statistical visualization |
+| SQL | Database querying |
+| Power BI | Business intelligence and reporting |
+
+### 05 — Development Tools & Platforms
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=git" width="42" alt="Git"/><br/>Git</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub"/><br/>GitHub</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=vscode" width="42" alt="Visual Studio Code"/><br/>VS Code</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=godot" width="42" alt="Godot"/><br/>Godot</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=arduino" width="42" alt="Arduino"/><br/>Arduino</td>
+</tr>
+</table>
+</div>
 
 ---
 
@@ -249,10 +329,12 @@ I'm exploring data-focused technologies and workflows to build a stronger founda
 
 ## 06 / Other Projects
 
-A few more experiments and smaller applications:
+More experiments and smaller applications from my development journey.
 
 | Project | Description |
 |:--|:--|
+| [Smart Coursework](https://github.com/Prayush-Shrestha/Smart-Coursework) | Python-based coursework data preparation project |
+| [Wallora](https://github.com/Prayush-Shrestha/wallora) | Personal modern web experience |
 | [To-Do-List](https://github.com/Prayush-Shrestha/To-Do-List) | Daily task management application |
 | [Expense-Tracker](https://github.com/Prayush-Shrestha/Expense-Tracker) | Expense tracking with balance calculations |
 | [Currency](https://github.com/Prayush-Shrestha/Currency) | Currency conversion using web technologies |
@@ -264,7 +346,11 @@ A few more experiments and smaller applications:
 | [Bootstrap](https://github.com/Prayush-Shrestha/bootstrap) | Bootstrap learning and development |
 | [Calculator](https://github.com/Prayush-Shrestha/calculator) | Calculator application built with Python |
 
-[Explore all repositories →](https://github.com/Prayush-Shrestha?tab=repositories)
+<div align="center">
+
+[![Explore Repositories](https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-183B32?style=for-the-badge&logo=github&logoColor=F4F4E9)](https://github.com/Prayush-Shrestha?tab=repositories)
+
+</div>
 
 ---
 
