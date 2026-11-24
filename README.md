@@ -1,12 +1,12 @@
- <div align="center">
+&#x20;\<div align="center">
 
-<img src="./header.svg" width="100%" alt="Prayush Shrestha — Software Developer, AI/ML, Data Analytics, Data Engineering and Cloud" />
+\<img src="./header.svg" width="100%" alt="Prayush Shrestha — Software Developer, AI/ML, Data Analytics, Data Engineering and Cloud" />
 
 **Building useful software. Exploring intelligent systems. Turning data into insights.**
 
-[GitHub](https://github.com/Prayush-Shrestha) · [LinkedIn](https://www.linkedin.com/in/prayushshrestha07/) · [Email](mailto:prayush1823@gmail.com)
+[GitHub](https://github.com/Prayush-Shrestha) · [LinkedIn](https://www.linkedin.com/in/prayushshrestha07/) · [Email](mailto\:prayush1823@gmail.com)
 
-</div>
+\</div>
 
 ---
 
@@ -29,54 +29,13 @@ Currently, I'm focused on strengthening my technical foundation through hands-on
 
 ---
 
-<div align="center">
-
-## THE INTELLIGENT DATA ECOSYSTEM
-
-*From raw data to meaningful intelligence.*
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2200&pause=650&color=A8DCC2&center=true&vCenter=true&width=750&height=45&lines=01+%2F+DATA+INGESTION;02+%2F+DATA+CLEANING+%26+TRANSFORMATION;03+%2F+FEATURE+ENGINEERING;04+%2F+MACHINE+LEARNING+%26+ANALYTICS;05+%2F+INSIGHTS+%26+PREDICTIONS;06+%2F+CLOUD+%26+DEPLOYMENT" alt="Animated intelligent data ecosystem workflow" />
-
-<table>
-<tr>
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/01-DATA-183B32?style=for-the-badge&labelColor=101B18" alt="Data"/>
-<br/><sub>Sources</sub>
-</td>
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/02-ETL-183B32?style=for-the-badge&labelColor=101B18" alt="ETL"/>
-<br/><sub>Processing</sub>
-</td>
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/03-ML-183B32?style=for-the-badge&labelColor=101B18" alt="Machine Learning"/>
-<br/><sub>Modelling</sub>
-</td>
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/04-ANALYTICS-183B32?style=for-the-badge&labelColor=101B18" alt="Analytics"/>
-<br/><sub>Insights</sub>
-</td>
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/05-CLOUD-183B32?style=for-the-badge&labelColor=101B18" alt="Cloud"/>
-<br/><sub>Deployment</sub>
-</td>
-</tr>
-</table>
-
-**DATA → TRANSFORMATION → INTELLIGENCE → INSIGHTS → DEPLOYMENT**
-
-<sub>Exploring the technologies and engineering concepts behind intelligent, data-driven systems.</sub>
-
-</div>
-
----
-
 ## 02 / Selected Projects
 
 A selection of projects that represent my development journey and interests across software, AI, data and interactive applications.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+\<table>
+\<tr>
+\<td width="50%" valign="top">
 
 ### 01. NEPSE Direction Tracker
 
@@ -86,8 +45,8 @@ A stock market direction prediction dashboard using a Python FastAPI backend and
 
 [View Repository →](https://github.com/Prayush-Shrestha/AI-Prediction)
 
-</td>
-<td width="50%" valign="top">
+\</td>
+\<td width="50%" valign="top">
 
 ### 02. AI Research Helper
 
@@ -97,10 +56,10 @@ An AI-focused project exploring ways to support research-related tasks through s
 
 [View Repository →](https://github.com/Prayush-Shrestha/ai-research-helper)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+\</td>
+\</tr>
+\<tr>
+\<td width="50%" valign="top">
 
 ### 03. PSPerfume
 
@@ -110,8 +69,8 @@ A perfume e-commerce project focused on creating a modern online shopping experi
 
 [View Repository →](https://github.com/Prayush-Shrestha/PSPerfume)
 
-</td>
-<td width="50%" valign="top">
+\</td>
+\<td width="50%" valign="top">
 
 ### 04. TaskFlow Management System
 
@@ -121,10 +80,10 @@ A task management application for organizing tasks, priorities, deadlines and wo
 
 [View Repository →](https://github.com/Prayush-Shrestha/TaskFlow-Management-System)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+\</td>
+\</tr>
+\<tr>
+\<td width="50%" valign="top">
 
 ### 05. SewaPortal
 
@@ -134,8 +93,8 @@ A community services portal providing public service information, document stora
 
 [View Repository →](https://github.com/Prayush-Shrestha/SewaPortal)
 
-</td>
-<td width="50%" valign="top">
+\</td>
+\<td width="50%" valign="top">
 
 ### 06. Hamro Khata Dashboard
 
@@ -145,10 +104,10 @@ A dashboard project focused on organizing tasks and presenting management inform
 
 [View Repository →](https://github.com/Prayush-Shrestha/hamrokhata-dashboard)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+\</td>
+\</tr>
+\<tr>
+\<td width="50%" valign="top">
 
 ### 07. 3D Ball
 
@@ -158,8 +117,8 @@ A 3D game project exploring ball movement, physics and interactive gameplay.
 
 [View Repository →](https://github.com/Prayush-Shrestha/3D-Ball)
 
-</td>
-<td width="50%" valign="top">
+\</td>
+\<td width="50%" valign="top">
 
 ### 08. 2D Car Racing
 
@@ -169,152 +128,152 @@ A 2D car racing game project exploring game mechanics and interactive gameplay.
 
 [View Repository →](https://github.com/Prayush-Shrestha/2Dcarracing)
 
-</td>
-</tr>
-</table>
+\</td>
+\</tr>
+\</table>
 
-<div align="center">
+\<div align="center">
 
-<br/>
+\<br/>
 
-<a href="https://github.com/Prayush-Shrestha?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-183B32?style=for-the-badge&logo=github&logoColor=F4F4E9" alt="Explore all GitHub projects"/>
-</a>
+\<a href="[https://github.com/Prayush-Shrestha?tab=repositories](https://github.com/Prayush-Shrestha?tab=repositories)">
+\<img src="[https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-183B32?style=for-the-badge&logo=github&logoColor=F4F4E9](https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-183B32?style=for-the-badge\&logo=github\&logoColor=F4F4E9)" alt="Explore all GitHub projects"/>
+\</a>
 
-<br/><br/>
+\<br/>\<br/>
 
 *More projects, experiments and development work.*
 
-</div>
+\</div>
 
 ---
 
 ## 03 / Technology Stack
 
-<div align="center">
+\<div align="center">
 
 ### THE TOOLS BEHIND MY WORK
 
 *Technologies I use, practise and explore through projects and learning.*
 
-</div>
+\</div>
 
 ### 01 — Programming Languages
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="100"><img src="https://skillicons.dev/icons?i=js" width="42" alt="JavaScript"/><br/>JavaScript</td>
-<td align="center" width="100"><img src="https://skillicons.dev/icons?i=ts" width="42" alt="TypeScript"/><br/>TypeScript</td>
-<td align="center" width="100"><img src="https://skillicons.dev/icons?i=python" width="42" alt="Python"/><br/>Python</td>
-<td align="center" width="100"><img src="https://skillicons.dev/icons?i=java" width="42" alt="Java"/><br/>Java</td>
-<td align="center" width="100"><img src="https://skillicons.dev/icons?i=c" width="42" alt="C"/><br/>C</td>
-<td align="center" width="100"><img src="https://skillicons.dev/icons?i=cpp" width="42" alt="C++"/><br/>C++</td>
-</tr>
-</table>
-</div>
+\<div align="center">
+\<table>
+\<tr>
+\<td align="center" width="100">\<img src="[https://skillicons.dev/icons?i=js](https://skillicons.dev/icons?i=js)" width="42" alt="JavaScript"/>\<br/>JavaScript\</td>
+\<td align="center" width="100">\<img src="[https://skillicons.dev/icons?i=ts](https://skillicons.dev/icons?i=ts)" width="42" alt="TypeScript"/>\<br/>TypeScript\</td>
+\<td align="center" width="100">\<img src="[https://skillicons.dev/icons?i=python](https://skillicons.dev/icons?i=python)" width="42" alt="Python"/>\<br/>Python\</td>
+\<td align="center" width="100">\<img src="[https://skillicons.dev/icons?i=java](https://skillicons.dev/icons?i=java)" width="42" alt="Java"/>\<br/>Java\</td>
+\<td align="center" width="100">\<img src="[https://skillicons.dev/icons?i=c](https://skillicons.dev/icons?i=c)" width="42" alt="C"/>\<br/>C\</td>
+\<td align="center" width="100">\<img src="[https://skillicons.dev/icons?i=cpp](https://skillicons.dev/icons?i=cpp)" width="42" alt="C++"/>\<br/>C++\</td>
+\</tr>
+\</table>
+\</div>
 
 ### 02 — Frontend Development
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="100"><img src="https://skillicons.dev/icons?i=html" width="42" alt="HTML5"/><br/>HTML5</td>
-<td align="center" width="100"><img src="https://skillicons.dev/icons?i=css" width="42" alt="CSS3"/><br/>CSS3</td>
-<td align="center" width="100"><img src="https://skillicons.dev/icons?i=react" width="42" alt="React"/><br/>React</td>
-<td align="center" width="100"><img src="https://skillicons.dev/icons?i=nextjs" width="42" alt="Next.js"/><br/>Next.js</td>
-<td align="center" width="100"><img src="https://skillicons.dev/icons?i=tailwind" width="42" alt="Tailwind CSS"/><br/>Tailwind CSS</td>
-<td align="center" width="100"><img src="https://skillicons.dev/icons?i=bootstrap" width="42" alt="Bootstrap"/><br/>Bootstrap</td>
-</tr>
-</table>
-</div>
+\<div align="center">
+\<table>
+\<tr>
+\<td align="center" width="100">\<img src="[https://skillicons.dev/icons?i=html](https://skillicons.dev/icons?i=html)" width="42" alt="HTML5"/>\<br/>HTML5\</td>
+\<td align="center" width="100">\<img src="[https://skillicons.dev/icons?i=css](https://skillicons.dev/icons?i=css)" width="42" alt="CSS3"/>\<br/>CSS3\</td>
+\<td align="center" width="100">\<img src="[https://skillicons.dev/icons?i=react](https://skillicons.dev/icons?i=react)" width="42" alt="React"/>\<br/>React\</td>
+\<td align="center" width="100">\<img src="[https://skillicons.dev/icons?i=nextjs](https://skillicons.dev/icons?i=nextjs)" width="42" alt="Next.js"/>\<br/>Next.js\</td>
+\<td align="center" width="100">\<img src="[https://skillicons.dev/icons?i=tailwind](https://skillicons.dev/icons?i=tailwind)" width="42" alt="Tailwind CSS"/>\<br/>Tailwind CSS\</td>
+\<td align="center" width="100">\<img src="[https://skillicons.dev/icons?i=bootstrap](https://skillicons.dev/icons?i=bootstrap)" width="42" alt="Bootstrap"/>\<br/>Bootstrap\</td>
+\</tr>
+\</table>
+\</div>
 
 ### 03 — Backend & Databases
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=nodejs" width="42" alt="Node.js"/><br/>Node.js</td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=express" width="42" alt="Express.js"/><br/>Express.js</td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=fastapi" width="42" alt="FastAPI"/><br/>FastAPI</td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=mysql" width="42" alt="MySQL"/><br/>MySQL</td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=mongodb" width="42" alt="MongoDB"/><br/>MongoDB</td>
-</tr>
-</table>
-</div>
+\<div align="center">
+\<table>
+\<tr>
+\<td align="center" width="110">\<img src="[https://skillicons.dev/icons?i=nodejs](https://skillicons.dev/icons?i=nodejs)" width="42" alt="Node.js"/>\<br/>Node.js\</td>
+\<td align="center" width="110">\<img src="[https://skillicons.dev/icons?i=express](https://skillicons.dev/icons?i=express)" width="42" alt="Express.js"/>\<br/>Express.js\</td>
+\<td align="center" width="110">\<img src="[https://skillicons.dev/icons?i=fastapi](https://skillicons.dev/icons?i=fastapi)" width="42" alt="FastAPI"/>\<br/>FastAPI\</td>
+\<td align="center" width="110">\<img src="[https://skillicons.dev/icons?i=mysql](https://skillicons.dev/icons?i=mysql)" width="42" alt="MySQL"/>\<br/>MySQL\</td>
+\<td align="center" width="110">\<img src="[https://skillicons.dev/icons?i=mongodb](https://skillicons.dev/icons?i=mongodb)" width="42" alt="MongoDB"/>\<br/>MongoDB\</td>
+\</tr>
+\</table>
+\</div>
 
 ### 04 — AI, Machine Learning & Data
 
-<div align="center">
+\<div align="center">
 
 **DATA ANALYTICS & VISUALIZATION**
 
-<table>
-<tr>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=python" width="42" alt="Python"/><br/>Python</td>
-<td align="center" width="110"><img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" height="25" alt="Pandas"/><br/>Pandas</td>
-<td align="center" width="110"><img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" height="25" alt="NumPy"/><br/>NumPy</td>
-<td align="center" width="110"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white" height="25" alt="Matplotlib"/><br/>Matplotlib</td>
-<td align="center" width="110"><img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white" height="25" alt="Seaborn"/><br/>Seaborn</td>
-</tr>
-</table>
+\<table>
+\<tr>
+\<td align="center" width="110">\<img src="[https://skillicons.dev/icons?i=python](https://skillicons.dev/icons?i=python)" width="42" alt="Python"/>\<br/>Python\</td>
+\<td align="center" width="110">\<img src="[https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)" height="25" alt="Pandas"/>\<br/>Pandas\</td>
+\<td align="center" width="110">\<img src="[https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white)" height="25" alt="NumPy"/>\<br/>NumPy\</td>
+\<td align="center" width="110">\<img src="[https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white](https://img.shields.io/badge/Matplotlib-11557C?style=flat\&logo=plotly\&logoColor=white)" height="25" alt="Matplotlib"/>\<br/>Matplotlib\</td>
+\<td align="center" width="110">\<img src="[https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white](https://img.shields.io/badge/Seaborn-4C72B0?style=flat\&logo=python\&logoColor=white)" height="25" alt="Seaborn"/>\<br/>Seaborn\</td>
+\</tr>
+\</table>
 
-<table>
-<tr>
-<td align="center" width="140"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=222222" height="25" alt="Power BI"/><br/>Power BI</td>
-<td align="center" width="140"><img src="https://skillicons.dev/icons?i=mysql" width="42" alt="SQL"/><br/>SQL</td>
-</tr>
-</table>
+\<table>
+\<tr>
+\<td align="center" width="140">\<img src="[https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=222222](https://img.shields.io/badge/Power_BI-F2C811?style=flat\&logo=powerbi\&logoColor=222222)" height="25" alt="Power BI"/>\<br/>Power BI\</td>
+\<td align="center" width="140">\<img src="[https://skillicons.dev/icons?i=mysql](https://skillicons.dev/icons?i=mysql)" width="42" alt="SQL"/>\<br/>SQL\</td>
+\</tr>
+\</table>
 
-<br/>
+\<br/>
 
 **AI / MACHINE LEARNING**
 
-<table>
-<tr>
-<td align="center" width="130"><img src="https://skillicons.dev/icons?i=python" width="42" alt="Python"/><br/>Python</td>
-<td align="center" width="130"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" height="25" alt="Scikit-learn"/><br/>Scikit-learn</td>
-<td align="center" width="130"><img src="https://img.shields.io/badge/Classification-183B32?style=flat&logo=python&logoColor=white" height="25" alt="Classification"/><br/>Classification</td>
-<td align="center" width="130"><img src="https://img.shields.io/badge/Regression-244D40?style=flat&logo=python&logoColor=white" height="25" alt="Regression"/><br/>Regression</td>
-</tr>
-<tr>
-<td align="center" width="130"><img src="https://img.shields.io/badge/Random_Forest-183B32?style=flat&logo=treehouse&logoColor=white" height="25" alt="Random Forest"/><br/>Random Forest</td>
-<td align="center" width="130"><img src="https://img.shields.io/badge/Model_Evaluation-244D40?style=flat&logo=checkmarx&logoColor=white" height="25" alt="Model Evaluation"/><br/>Model Evaluation</td>
-<td align="center" width="130"><img src="https://img.shields.io/badge/Feature_Engineering-183B32?style=flat&logo=python&logoColor=white" height="25" alt="Feature Engineering"/><br/>Feature Engineering</td>
-<td align="center" width="130"><img src="https://img.shields.io/badge/Data_Preprocessing-244D40?style=flat&logo=python&logoColor=white" height="25" alt="Data Preprocessing"/><br/>Data Preprocessing</td>
-</tr>
-</table>
+\<table>
+\<tr>
+\<td align="center" width="130">\<img src="[https://skillicons.dev/icons?i=python](https://skillicons.dev/icons?i=python)" width="42" alt="Python"/>\<br/>Python\</td>
+\<td align="center" width="130">\<img src="[https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat\&logo=scikitlearn\&logoColor=white)" height="25" alt="Scikit-learn"/>\<br/>Scikit-learn\</td>
+\<td align="center" width="130">\<img src="[https://img.shields.io/badge/Classification-183B32?style=flat&logo=python&logoColor=white](https://img.shields.io/badge/Classification-183B32?style=flat\&logo=python\&logoColor=white)" height="25" alt="Classification"/>\<br/>Classification\</td>
+\<td align="center" width="130">\<img src="[https://img.shields.io/badge/Regression-244D40?style=flat&logo=python&logoColor=white](https://img.shields.io/badge/Regression-244D40?style=flat\&logo=python\&logoColor=white)" height="25" alt="Regression"/>\<br/>Regression\</td>
+\</tr>
+\<tr>
+\<td align="center" width="130">\<img src="[https://img.shields.io/badge/Random_Forest-183B32?style=flat&logo=treehouse&logoColor=white](https://img.shields.io/badge/Random_Forest-183B32?style=flat\&logo=treehouse\&logoColor=white)" height="25" alt="Random Forest"/>\<br/>Random Forest\</td>
+\<td align="center" width="130">\<img src="[https://img.shields.io/badge/Model_Evaluation-244D40?style=flat&logo=checkmarx&logoColor=white](https://img.shields.io/badge/Model_Evaluation-244D40?style=flat\&logo=checkmarx\&logoColor=white)" height="25" alt="Model Evaluation"/>\<br/>Model Evaluation\</td>
+\<td align="center" width="130">\<img src="[https://img.shields.io/badge/Feature_Engineering-183B32?style=flat&logo=python&logoColor=white](https://img.shields.io/badge/Feature_Engineering-183B32?style=flat\&logo=python\&logoColor=white)" height="25" alt="Feature Engineering"/>\<br/>Feature Engineering\</td>
+\<td align="center" width="130">\<img src="[https://img.shields.io/badge/Data_Preprocessing-244D40?style=flat&logo=python&logoColor=white](https://img.shields.io/badge/Data_Preprocessing-244D40?style=flat\&logo=python\&logoColor=white)" height="25" alt="Data Preprocessing"/>\<br/>Data Preprocessing\</td>
+\</tr>
+\</table>
 
-<br/>
+\<br/>
 
 **DATA ENGINEERING**
 
-<table>
-<tr>
-<td align="center" width="130"><img src="https://skillicons.dev/icons?i=mysql" width="42" alt="MySQL"/><br/>MySQL</td>
-<td align="center" width="130"><img src="https://skillicons.dev/icons?i=aws" width="42" alt="AWS"/><br/>AWS</td>
-<td align="center" width="130"><img src="https://img.shields.io/badge/ETL-183B32?style=flat&logo=databricks&logoColor=white" height="25" alt="ETL"/><br/>ETL</td>
-<td align="center" width="130"><img src="https://img.shields.io/badge/Data_Pipelines-244D40?style=flat&logo=apacheairflow&logoColor=white" height="25" alt="Data Pipelines"/><br/>Data Pipelines</td>
-</tr>
-</table>
+\<table>
+\<tr>
+\<td align="center" width="130">\<img src="[https://skillicons.dev/icons?i=mysql](https://skillicons.dev/icons?i=mysql)" width="42" alt="MySQL"/>\<br/>MySQL\</td>
+\<td align="center" width="130">\<img src="[https://skillicons.dev/icons?i=aws](https://skillicons.dev/icons?i=aws)" width="42" alt="AWS"/>\<br/>AWS\</td>
+\<td align="center" width="130">\<img src="[https://img.shields.io/badge/ETL-183B32?style=flat&logo=databricks&logoColor=white](https://img.shields.io/badge/ETL-183B32?style=flat\&logo=databricks\&logoColor=white)" height="25" alt="ETL"/>\<br/>ETL\</td>
+\<td align="center" width="130">\<img src="[https://img.shields.io/badge/Data_Pipelines-244D40?style=flat&logo=apacheairflow&logoColor=white](https://img.shields.io/badge/Data_Pipelines-244D40?style=flat\&logo=apacheairflow\&logoColor=white)" height="25" alt="Data Pipelines"/>\<br/>Data Pipelines\</td>
+\</tr>
+\</table>
 
-<br/>
+\<br/>
 
-</div>
+\</div>
 
 ### 05 — Development Tools & Platforms
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=git" width="42" alt="Git"/><br/>Git</td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub"/><br/>GitHub</td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=vscode" width="42" alt="Visual Studio Code"/><br/>VS Code</td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=godot" width="42" alt="Godot"/><br/>Godot</td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=arduino" width="42" alt="Arduino"/><br/>Arduino</td>
-</tr>
-</table>
-</div>
+\<div align="center">
+\<table>
+\<tr>
+\<td align="center" width="110">\<img src="[https://skillicons.dev/icons?i=git](https://skillicons.dev/icons?i=git)" width="42" alt="Git"/>\<br/>Git\</td>
+\<td align="center" width="110">\<img src="[https://skillicons.dev/icons?i=github](https://skillicons.dev/icons?i=github)" width="42" alt="GitHub"/>\<br/>GitHub\</td>
+\<td align="center" width="110">\<img src="[https://skillicons.dev/icons?i=vscode](https://skillicons.dev/icons?i=vscode)" width="42" alt="Visual Studio Code"/>\<br/>VS Code\</td>
+\<td align="center" width="110">\<img src="[https://skillicons.dev/icons?i=godot](https://skillicons.dev/icons?i=godot)" width="42" alt="Godot"/>\<br/>Godot\</td>
+\<td align="center" width="110">\<img src="[https://skillicons.dev/icons?i=arduino](https://skillicons.dev/icons?i=arduino)" width="42" alt="Arduino"/>\<br/>Arduino\</td>
+\</tr>
+\</table>
+\</div>
 
 ---
 
@@ -416,46 +375,58 @@ I'm developing a stronger foundation in data analytics and engineering through d
 
 More experiments and smaller applications from my development journey.
 
-| Project | Description |
-|:--|:--|
-| [Smart Coursework](https://github.com/Prayush-Shrestha/Smart-Coursework) | Python-based coursework data preparation project |
-| [Wallora](https://github.com/Prayush-Shrestha/wallora) | Personal modern web experience |
-| [To-Do-List](https://github.com/Prayush-Shrestha/To-Do-List) | Daily task management application |
-| [Expense-Tracker](https://github.com/Prayush-Shrestha/Expense-Tracker) | Expense tracking with balance calculations |
-| [Currency](https://github.com/Prayush-Shrestha/Currency) | Currency conversion using web technologies |
-| [Wecare-Store](https://github.com/Prayush-Shrestha/Wecare-Store) | Store management project |
-| [Rock Paper Scissors](https://github.com/Prayush-Shrestha/rock-paper-scissors) | JavaScript game demonstrating game logic |
-| [Tic Tac Toe](https://github.com/Prayush-Shrestha/tic-tac-toe) | Browser-based game with win and draw detection |
+| Project                                                                                | Description                                       |
+| :------------------------------------------------------------------------------------- | :------------------------------------------------ |
+| [Smart Coursework](https://github.com/Prayush-Shrestha/Smart-Coursework)               | Python-based coursework data preparation project  |
+| [Wallora](https://github.com/Prayush-Shrestha/wallora)                                 | Personal modern web experience                    |
+| [To-Do-List](https://github.com/Prayush-Shrestha/To-Do-List)                           | Daily task management application                 |
+| [Expense-Tracker](https://github.com/Prayush-Shrestha/Expense-Tracker)                 | Expense tracking with balance calculations        |
+| [Currency](https://github.com/Prayush-Shrestha/Currency)                               | Currency conversion using web technologies        |
+| [Wecare-Store](https://github.com/Prayush-Shrestha/Wecare-Store)                       | Store management project                          |
+| [Rock Paper Scissors](https://github.com/Prayush-Shrestha/rock-paper-scissors)         | JavaScript game demonstrating game logic          |
+| [Tic Tac Toe](https://github.com/Prayush-Shrestha/tic-tac-toe)                         | Browser-based game with win and draw detection    |
 | [Background Color Change](https://github.com/Prayush-Shrestha/Background-Color-Change) | Interactive background color changing application |
-| [Modern Business](https://github.com/Prayush-Shrestha/Modern-Business) | Responsive business website |
-| [Bootstrap](https://github.com/Prayush-Shrestha/bootstrap) | Bootstrap learning and development |
-| [Calculator](https://github.com/Prayush-Shrestha/calculator) | Calculator application built with Python |
+| [Modern Business](https://github.com/Prayush-Shrestha/Modern-Business)                 | Responsive business website                       |
+| [Bootstrap](https://github.com/Prayush-Shrestha/bootstrap)                             | Bootstrap learning and development                |
+| [Calculator](https://github.com/Prayush-Shrestha/calculator)                           | Calculator application built with Python          |
 
-<div align="center">
+\<div align="center">
 
-[![Explore Repositories](https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-183B32?style=for-the-badge&logo=github&logoColor=F4F4E9)](https://github.com/Prayush-Shrestha?tab=repositories)
 
-</div>
+
+\</div>
 
 ---
 
 ## 07 / GitHub Statistics
 
-<div align="center">
+\<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prayush-Shrestha&show_icons=true&hide_border=true&bg_color=101B18&title_color=A8DCC2&text_color=F4F4E9&icon_color=8FCBB0&rank_icon=github" alt="GitHub statistics"/>
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=Prayush-Shrestha&show_icons=true&hide_border=true&bg_color=101B18&title_color=A8DCC2&text_color=F4F4E9&icon_color=8FCBB0&rank_icon=github](https://github-readme-stats.vercel.app/api?username=Prayush-Shrestha\&show_icons=true\&hide_border=true\&bg_color=101B18\&title_color=A8DCC2\&text_color=F4F4E9\&icon_color=8FCBB0\&rank_icon=github)" alt="GitHub statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prayush-Shrestha&layout=compact&hide_border=true&bg_color=101B18&title_color=A8DCC2&text_color=F4F4E9" alt="Most used programming languages"/>
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Prayush-Shrestha&layout=compact&hide_border=true&bg_color=101B18&title_color=A8DCC2&text_color=F4F4E9](https://github-readme-stats.vercel.app/api/top-langs/?username=Prayush-Shrestha\&layout=compact\&hide_border=true\&bg_color=101B18\&title_color=A8DCC2\&text_color=F4F4E9)" alt="Most used programming languages"/>
 
-<br/><br/>
+\<br/>\<br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Prayush-Shrestha&hide_border=true&background=FFFFFF&ring=183B32&fire=244D40&currStreakLabel=183B32&sideLabels=183B32&currStreakNum=183B32&sideNums=183B32&dates=687A70" alt="GitHub contribution streak"/>
+\<img width="70%" src="[https://streak-stats.demolab.com?user=Prayush-Shrestha&hide_border=true&background=FFFFFF&ring=183B32&fire=244D40&currStreakLabel=183B32&sideLabels=183B32&currStreakNum=183B32&sideNums=183B32&dates=687A70](https://streak-stats.demolab.com?user=Prayush-Shrestha\&hide_border=true\&background=FFFFFF\&ring=183B32\&fire=244D40\&currStreakLabel=183B32\&sideLabels=183B32\&currStreakNum=183B32\&sideNums=183B32\&dates=687A70)" alt="GitHub contribution streak"/>
 
-<br/><br/>
+\<br/>\<br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prayush-Shrestha&bg_color=101B18&color=A8DCC2&line=8FCBB0&point=F4F4E9&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
+\<img width="95%" src="[https://github-readme-activity-graph.vercel.app/graph?username=Prayush-Shrestha&bg_color=101B18&color=A8DCC2&line=8FCBB0&point=F4F4E9&area=true&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=Prayush-Shrestha\&bg_color=101B18\&color=A8DCC2\&line=8FCBB0\&point=F4F4E9\&area=true\&hide_border=true)" alt="GitHub contribution activity graph"/>
 
-</div>
+\<br/>\<br/>
+
+### CONTRIBUTION SNAKE
+
+*Every contribution is part of the journey.*
+
+\<picture>
+&#x20; \<source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/Prayush-Shrestha/Prayush-Shrestha/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/Prayush-Shrestha/Prayush-Shrestha/output/github-contribution-grid-snake-dark.svg)">
+&#x20; \<source media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/Prayush-Shrestha/Prayush-Shrestha/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/Prayush-Shrestha/Prayush-Shrestha/output/github-contribution-grid-snake.svg)">
+&#x20; \<img alt="Animated GitHub contribution snake" src="[https://raw.githubusercontent.com/Prayush-Shrestha/Prayush-Shrestha/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/Prayush-Shrestha/Prayush-Shrestha/output/github-contribution-grid-snake.svg)" width="100%">
+\</picture>
+
+\</div>
 
 ---
 
@@ -463,18 +434,18 @@ More experiments and smaller applications from my development journey.
 
 I'm always interested in learning, building projects and connecting with people in software development, AI and data.
 
-<div align="center">
+\<div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-101B18?style=for-the-badge&logo=github&logoColor=F4F4E9)](https://github.com/Prayush-Shrestha)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-183B32?style=for-the-badge&logo=linkedin&logoColor=A8DCC2)](https://www.linkedin.com/in/prayushshrestha07/)
-[![Gmail](https://img.shields.io/badge/Gmail-244D40?style=for-the-badge&logo=gmail&logoColor=F4F4E9)](mailto:prayush1823@gmail.com)
 
-<br/>
+\
+
+
+\<br/>
 
 ### Curiosity drives the process. Consistency builds the results.
 
-<br/>
+\<br/>
 
-<img src="./footer.svg" width="100%" alt="Build Learn Improve — Thank you for visiting my profile"/>
+\<img src="./footer.svg" width="100%" alt="Build Learn Improve — Thank you for visiting my profile"/>
 
-</div>
+\</div>
