@@ -1,6 +1,12 @@
- <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:101B18,45:183B32,100:8FCBB0&text=PRAYUSH%20SHRESTHA&fontSize=48&fontColor=F4F4E9&fontAlignY=40&animation=fadeIn&desc=SOFTWARE%20DEVELOPER%20%2F%20AI%20%26%20DATA%20ENTHUSIAST&descSize=13&descAlignY=59&descColor=D4E8DC" width="100%"/>
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:101B18,100:8FCBB0&height=230&section=header&text=PRAYUSH%20SHRESTHA&fontSize=46&fontColor=F4F4E9&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20%26%20DATA%20ENTHUSIAST&descSize=14&descAlignY=58&descColor=D4E8DC"
+    width="100%"
+    alt="Prayush Shrestha GitHub Banner"
+  />
+</div>
+
 
 <br/>
 
