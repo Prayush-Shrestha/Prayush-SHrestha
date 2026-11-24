@@ -1,237 +1,303 @@
  <div align="center">
 
-<img src="./header.svg" width="100%" alt="Prayush Shrestha - Software Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7dd3fc&height=200&section=header&text=Prayush%20Shrestha&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=45" width="100%" alt="Prayush Shrestha"/>
 
-<br/>
+<a href="https://github.com/Prayush-Shrestha">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=7DD3FC&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Exploring+Data+Analysis+%26+Visualization;Developing+with+Next.js+%26+React;Exploring+AI%2FML+and+Data+Engineering;Learning+Game+Development+with+Godot" alt="Typing SVG"/>
+</a>
 
-### SOFTWARE DEVELOPER · AI/ML · DATA ENGINEERING
+<br/><br/>
 
-Building useful things. Exploring intelligent systems. Turning ideas into practical projects.
+<a href="https://github.com/Prayush-Shrestha">
+<img src="https://img.shields.io/badge/GitHub-Prayush--Shrestha-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/prayushshrestha07/">
+<img src="https://img.shields.io/badge/LinkedIn-Prayush%20Shrestha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:prayush1823@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Prayush--Shrestha-183B32?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prayush-Shrestha)
-[![Profile Views](https://komarev.com/ghpvc/?username=Prayush-Shrestha&style=for-the-badge&color=244D40)](https://github.com/Prayush-Shrestha)
+<br/><br/>
 
 </div>
 
 ---
 
-## 01 / About Me
+## About Me
 
-I'm a Computing student and software developer interested in building practical applications and exploring intelligent technologies.
+I'm **Prayush Shrestha**, a BSc (Hons) Computing student interested in building practical software, analyzing data, and exploring artificial intelligence.
 
-- Currently exploring **Artificial Intelligence and Machine Learning**
-- Interested in **Data Engineering, Cloud Computing and Backend Development**
-- Building projects with modern web technologies and Python
-- Focused on improving problem-solving and software engineering skills
+I enjoy developing responsive web applications, experimenting with AI-related projects, working with databases, and turning ideas into functional applications. I'm also exploring data engineering, cloud technologies, and game development.
 
-<br/>
+- BSc (Hons) Computing student
+- Interested in AI/ML, Data Engineering, Data Analysis, and Software Development
+- Building web applications with React, Next.js, TypeScript, and JavaScript
+- Exploring Python, Pandas, NumPy, and Data Visualization
+- Learning SQL, database design, and data processing
+- Exploring Cloud Technologies and Business Intelligence
+- Exploring Godot, GDScript, and 2D/3D game development
+- Building personal projects to improve my development skills
 
-## 02 / Featured Projects
+---
 
-A selection of projects I've worked on.
+## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 1. NEPSE Direction Tracker
 
-### 01. NEPSE Direction Tracker
+A stock market direction prediction dashboard using a Python FastAPI backend and Random Forest machine learning models to estimate the next-session direction of NEPSE-listed stocks.
 
-An AI-based project focused on predicting market direction.
+**Technologies:** Python, FastAPI, Random Forest, Machine Learning, Next.js
 
-**Stack:** Python · FastAPI · Random Forest
+[View Repository](https://github.com/Prayush-Shrestha/AI-Prediction)
 
-[View Project](https://github.com/Prayush-Shrestha/AI-Prediction)
+### 2. AI Research Helper
 
-</td>
-<td width="50%" valign="top">
+An AI-focused project exploring ways to support research-related tasks through software.
 
-### 02. AI Research Helper
+**Focus:** Artificial Intelligence, Research Tools, Software Development
 
-An AI-focused project exploring research assistance and intelligent information workflows.
+[View Repository](https://github.com/Prayush-Shrestha/ai-research-helper)
 
-**Stack:** AI · Python
+### 3. PSPerfume
 
-[View GitHub](https://github.com/Prayush-Shrestha)
+A perfume e-commerce project focused on building a modern online shopping experience.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**Technologies:** Next.js, Node.js, Express.js, MongoDB, Clerk
 
-### 03. PSPerfume
+[View Repository](https://github.com/Prayush-Shrestha/PSPerfume)
 
-A perfume-focused web application built with a modern full-stack setup.
+### 4. TaskFlow Management System
 
-**Stack:** Next.js · Node.js · Express · MongoDB · Clerk
+A task management application for organizing tasks, priorities, deadlines, and work assignments.
 
-[View GitHub](https://github.com/Prayush-Shrestha)
+**Technologies:** React, Node.js, MySQL
 
-</td>
-<td width="50%" valign="top">
+[View Repository](https://github.com/Prayush-Shrestha/TaskFlow-Management-System)
 
-### 04. TaskFlow Management System
+### 5. SewaPortal
 
-A task management application built using React and a backend database.
+A community services portal providing access to public service information, document storage, application tracking, payment management, community polls, and issue reporting.
 
-**Stack:** React · Node.js · MySQL
+[View Repository](https://github.com/Prayush-Shrestha/SewaPortal)
 
-[View GitHub](https://github.com/Prayush-Shrestha)
+### 6. Hamro Khata Dashboard
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+A dashboard project focused on organizing tasks and presenting management information through a user interface.
 
-### 05. SewaPortal
+[View Repository](https://github.com/Prayush-Shrestha/hamrokhata-dashboard)
 
-A web development project.
+### 7. 3D Ball
 
-[View GitHub](https://github.com/Prayush-Shrestha)
+A 3D game project exploring ball movement, physics, and interactive gameplay.
 
-</td>
-<td width="50%" valign="top">
+**Focus:** 3D Game Development, Game Mechanics
 
-### 06. Hamro Khata Dashboard
+[View Repository](https://github.com/Prayush-Shrestha/3D-Ball)
 
-A dashboard-focused application.
+### 8. 2D Car Racing
 
-[View GitHub](https://github.com/Prayush-Shrestha)
+A 2D car racing game project exploring game mechanics and interactive gameplay.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**Focus:** 2D Game Development, Game Logic
 
-### 07. 3D Ball
+[View Repository](https://github.com/Prayush-Shrestha/2Dcarracing)
 
-A 3D interactive development project.
+### 9. Smart Coursework
 
-[View GitHub](https://github.com/Prayush-Shrestha)
+A data preparation project focused on processing coursework-related datasets using Python and Jupyter Notebook.
 
-</td>
-<td width="50%" valign="top">
+**Technologies:** Python, Jupyter Notebook
 
-### 08. 2D Car Racing
-
-A 2D car racing game project.
-
-[View GitHub](https://github.com/Prayush-Shrestha)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 09. Smart Coursework
-
-A coursework-related software project.
-
-[View GitHub](https://github.com/Prayush-Shrestha)
-
-</td>
-<td width="50%" valign="top">
+[View Repository](https://github.com/Prayush-Shrestha/Smart-Coursework)
 
 ### 10. Wallora
 
-A web development project.
+A personal project focused on developing a modern web experience.
 
-[View GitHub](https://github.com/Prayush-Shrestha)
+[View Repository](https://github.com/Prayush-Shrestha/wallora)
 
-</td>
-</tr>
-</table>
+---
 
-<br/>
+## Other Projects
 
-## 03 / Technology Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,php" />
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mysql,mongodb,postgres" />
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker,linux" />
-
-</div>
-
-<br/>
-
-## 04 / Current Learning Path
-
-| Area | Focus |
+| Project | Description |
 |---|---|
-| Artificial Intelligence | Machine Learning, model development |
-| Data Engineering | Data pipelines, processing, databases |
-| Cloud Computing | Cloud infrastructure and deployment |
-| Backend Engineering | APIs, authentication, system design |
-| Software Development | Clean code, architecture, problem-solving |
+| [To-Do-List](https://github.com/Prayush-Shrestha/To-Do-List) | Daily task management application. |
+| [Expense-Tracker](https://github.com/Prayush-Shrestha/Expense-Tracker) | Expense tracking with balance calculations. |
+| [Currency](https://github.com/Prayush-Shrestha/Currency) | Currency conversion using web technologies. |
+| [Wecare-Store](https://github.com/Prayush-Shrestha/Wecare-Store) | Store management project. |
+| [rock-paper-scissors](https://github.com/Prayush-Shrestha/rock-paper-scissors) | JavaScript game demonstrating game logic. |
+| [tic-tac-toe](https://github.com/Prayush-Shrestha/tic-tac-toe) | Browser-based game with win and draw detection. |
+| [Background-Color-Change](https://github.com/Prayush-Shrestha/Background-Color-Change) | Interactive background color changing application. |
+| [Modern-Business](https://github.com/Prayush-Shrestha/Modern-Business) | Responsive business website. |
+| [bootstrap](https://github.com/Prayush-Shrestha/bootstrap) | Bootstrap learning and development. |
+| [calculator](https://github.com/Prayush-Shrestha/calculator) | Calculator application built with Python. |
+| [Prayush-Shrestha](https://github.com/Prayush-Shrestha/Prayush-Shrestha) | GitHub profile README repository. |
 
-<br/>
+**Explore all my projects:** [GitHub Repositories](https://github.com/Prayush-Shrestha?tab=repositories)
 
-## 05 / Other Projects
+---
 
-Some additional projects and experiments:
-
-- To-Do List
-- Expense Tracker
-- Currency Converter
-- Wecare Store
-- Rock Paper Scissors
-- Tic Tac Toe
-- Background Color Change
-- Modern Business
-- Bootstrap Projects
-- Calculator
-
-[Explore all repositories →](https://github.com/Prayush-Shrestha?tab=repositories)
-
-<br/>
-
-## 06 / GitHub Activity
+## GitHub Statistics
 
 <div align="center">
 
-### Contribution Streak
+<img src="https://github-readme-stats.vercel.app/api?username=Prayush-Shrestha&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub Statistics"/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=Prayush-Shrestha&hide_border=true&background=FFFFFF&ring=183B32&fire=244D40&currStreakLabel=183B32&sideLabels=183B32&currStreakNum=183B32&sideNums=183B32&dates=687A70" alt="GitHub contribution streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prayush-Shrestha&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Most Used Languages"/>
 
 <br/><br/>
 
-### Contribution Overview
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prayush-Shrestha&bg_color=101B18&color=A8DCC2&line=8FCBB0&point=F4F4E9&area=true&hide_border=true" alt="GitHub activity graph" />
+<img src="https://streak-stats.demolab.com?user=Prayush-Shrestha&hide_border=true&background=FFFFFF&ring=183B32&fire=244D40&currStreakLabel=183B32&sideLabels=183B32&currStreakNum=183B32&sideNums=183B32&dates=687A70" width="75%" alt="GitHub Contribution Streak"/>
 
 </div>
 
-<br/>
+---
 
-## 07 / Connect
+## Tech Stack
 
 <div align="center">
 
-Interested in software development, AI/ML, data engineering, and meaningful technology projects.
+### Programming Languages
 
-<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp" alt="Programming Languages"/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-183B32?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prayush-Shrestha)
+JavaScript · TypeScript · Python · Java · C · C++
 
 <br/><br/>
 
-**BUILD · LEARN · IMPROVE**
+### Frontend Development
 
-<sub>Designed and maintained by Prayush Shrestha</sub>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" alt="Frontend Technologies"/>
+
+HTML5 · CSS3 · React · Next.js · Tailwind CSS · Bootstrap
+
+<br/><br/>
+
+### Backend and Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mysql,mongodb" alt="Backend and Database Technologies"/>
+
+Node.js · Express.js · FastAPI · MySQL · MongoDB
+
+<br/><br/>
+
+### Tools and Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,aws,godot,arduino" alt="Tools and Platforms"/>
+
+Git · GitHub · Visual Studio Code · AWS · Godot · Arduino
+
+</div>
+
+---
+
+## Data Analysis and Engineering
+
+I'm exploring data-focused technologies and workflows to build a stronger foundation in analytics, machine learning, and data engineering.
+
+- Python for Data Analysis
+- Pandas and NumPy
+- Matplotlib and Seaborn
+- SQL and MySQL
+- Data Cleaning and Preparation
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Business Intelligence and Power BI
+- Machine Learning Fundamentals
+- Data Pipelines and ETL Concepts
+- Cloud Computing and Data Infrastructure
+
+---
+
+## Currently Learning
+
+### Web and Software Development
+
+- React, Next.js, and TypeScript
+- Responsive Web Design and UI Development
+- Full-Stack Web Application Development
+- JavaScript Programming and Application Logic
+- Writing Clean, Reusable, and Maintainable Code
+- Git, GitHub, and Version Control
+
+### Artificial Intelligence and Machine Learning
+
+- Python for AI and Machine Learning
+- Machine Learning Fundamentals
+- Supervised Learning and Classification
+- Regression and Prediction Models
+- Random Forest and Model Evaluation
+- Data Preprocessing and Feature Engineering
+- AI-Powered Application Development
+
+### Data Analysis and Data Engineering
+
+- Python for Data Analysis
+- Pandas and NumPy
+- Data Cleaning and Transformation
+- Exploratory Data Analysis (EDA)
+- Matplotlib and Seaborn
+- SQL Queries and Database Design
+- Data Visualization and Power BI
+- ETL Processes and Data Pipeline Fundamentals
+- Cloud Computing and Data Infrastructure
+
+### Game Development
+
+- Godot Engine and GDScript
+- 2D Game Development and Game Mechanics
+- 3D Game Development and Scene Design
+- Player Movement and Input Handling
+- Character and Object Controllers
+- Physics-Based Movement and Rigidbody Concepts
+- Collision Detection and Collision Handling
+- Gravity, Velocity, Acceleration, and Momentum
+- Camera Controls and Smooth Camera Following
+- Level Design, TileMaps, and Environment Building
+- Signals, Nodes, Scenes, and Godot's Scene System
+- Animation Systems and AnimationPlayer
+- User Interface Design for Games
+- Score Systems, Health Systems, and Game State Management
+- Timers, Checkpoints, and Respawn Mechanics
+- Car Movement, Steering, Acceleration, and Braking
+- Racing Mechanics, Track Design, and Lap Systems
+- Enemy Behaviour and Basic Game AI
+- Game Optimization and Performance
+- Debugging and Testing Gameplay
+- Exporting and Publishing Games for PC and Web
+
+### Cloud and Development Tools
+
+- Cloud Computing Fundamentals
+- AWS Services and Cloud Infrastructure
+- Git and GitHub Workflows
+- Development Environments and Debugging
+- Application Deployment Fundamentals
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Prayush-Shrestha">
+<img src="https://img.shields.io/badge/GitHub-Prayush--Shrestha-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/prayushshrestha07/">
+<img src="https://img.shields.io/badge/LinkedIn-Prayush%20Shrestha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:prayush1823@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-prayush1823%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+### Building. Learning. Improving.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0f172a&height=120&section=footer" width="100%" alt="Footer"/>
 
 </div>
