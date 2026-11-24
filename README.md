@@ -13,13 +13,14 @@
 <a href="mailto:prayush1823@gmail.com"><img src="https://img.shields.io/badge/Email-244D40?style=for-the-badge&logo=gmail&logoColor=F4F4E9" alt="Email"/></a>
 
 </div>
+
 ---
 
 ## 01 / About Me
 
 Hi, I'm **Prayush Shrestha**, a BSc (Hons) Computing student and software developer based in Kathmandu, Nepal.
 
-I like turning ideas into practical software, from full-stack web applications to machine learning experiments and data analysis. My interests meet at **software development, AI and machine learning, data analytics, data engineering and cloud engineering**.
+I like turning ideas into practical software, from full-stack web applications to machine learning experiments and data analysis. My interests meet at **software development,software engineering, AI and machine learning, data analytics, data engineering and cloud engineering**.
 
 Right now I'm strengthening my foundation through hands-on projects, experiments and steady learning.
 
