@@ -1,10 +1,16 @@
 <div align="center">
 
-<img src="./header.svg" width="100%" alt="Prayush Shrestha — Software Developer, AI/ML, Data Analytics, Data Engineering and Cloud" />
+<img src="./header.svg" width="100%" alt="Prayush Shrestha, Software Developer, AI/ML, Data Analytics, Data Engineering and Cloud" />
 
-**Building useful software. Exploring intelligent systems. Turning data into insights.**
+<br/>
 
-[GitHub](https://github.com/Prayush-Shrestha) · [LinkedIn](https://www.linkedin.com/in/prayushshrestha07/) · [Email](mailto:prayush1823@gmail.com)
+**Building useful software &nbsp;·&nbsp; Exploring intelligent systems &nbsp;·&nbsp; Turning data into insights**
+
+<br/>
+
+<a href="https://github.com/Prayush-Shrestha"><img src="https://img.shields.io/badge/GitHub-101B18?style=for-the-badge&logo=github&logoColor=F4F4E9" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/prayushshrestha07/"><img src="https://img.shields.io/badge/LinkedIn-183B32?style=for-the-badge&logo=linkedin&logoColor=A8DCC2" alt="LinkedIn"/></a>
+<a href="mailto:prayush1823@gmail.com"><img src="https://img.shields.io/badge/Email-244D40?style=for-the-badge&logo=gmail&logoColor=F4F4E9" alt="Email"/></a>
 
 </div>
 
