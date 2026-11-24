@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="./header.svg" width="100%" alt="Prayush Shrestha - Software Developer"/>
+<img src="./header.svg" width="100%" alt="Prayush Shrestha - Software Engineering" />
 
 <br/>
 
