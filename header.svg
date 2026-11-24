@@ -1,7 +1,62 @@
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/Prayush-Shrestha/Prayush-SHrestha/main/header.svg"
-    width="100%"
-    alt="Prayush Shrestha"
-  />
-</div>
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#101B18"/>
+      <stop offset="55%" stop-color="#183B32"/>
+      <stop offset="100%" stop-color="#244D40"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8FCBB0"/>
+      <stop offset="100%" stop-color="#D4EBDD"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#A8DCC2" stroke-opacity=".07" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="18" fill="url(#grid)"/>
+
+  <circle cx="1030" cy="115" r="190" fill="#8FCBB0" opacity=".055"/>
+  <circle cx="1030" cy="115" r="130" fill="none" stroke="#A8DCC2" stroke-opacity=".15"/>
+  <circle cx="1030" cy="115" r="90" fill="none" stroke="#A8DCC2" stroke-opacity=".12"/>
+  <path d="M820 260L1060 20M900 300L1160 40M980 320L1200 100"
+        stroke="#A8DCC2" stroke-opacity=".12" stroke-width="1"/>
+
+  <rect x="70" y="65" width="5" height="175" rx="2.5" fill="url(#accent)"/>
+
+  <text x="105" y="110"
+        fill="#A8DCC2"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="15"
+        letter-spacing="5">SOFTWARE ENGINEERING / AI / DATA</text>
+
+  <text x="100" y="190"
+        fill="#F4F4E9"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="76"
+        font-weight="700"
+        letter-spacing="-2">PRAYUSH.</text>
+
+  <text x="105" y="230"
+        fill="#C4D9CC"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="17"
+        letter-spacing="2">BUILDING IDEAS INTO PRACTICAL SOFTWARE</text>
+
+  <text x="105" y="275"
+        fill="#8FCBB0"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="12"
+        letter-spacing="3">KATHMANDU, NEPAL</text>
+
+  <text x="1100" y="275"
+        text-anchor="end"
+        fill="#A8DCC2"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="12"
+        letter-spacing="3">01 — 07</text>
+
+  <path d="M70 290H1130" stroke="#A8DCC2" stroke-opacity=".22"/>
+</svg>
