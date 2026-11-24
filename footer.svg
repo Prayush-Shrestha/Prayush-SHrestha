@@ -1,22 +1,91 @@
 
-
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 170" width="1200" height="170">
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#101B18"/>
+    <linearGradient id="background" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#101B18">
+        <animate attributeName="stop-color"
+          values="#101B18;#183B32;#101B18"
+          dur="12s" repeatCount="indefinite"/>
+      </stop>
       <stop offset="50%" stop-color="#183B32"/>
       <stop offset="100%" stop-color="#244D40"/>
     </linearGradient>
+
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8FCBB0" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#A8DCC2"/>
+      <stop offset="100%" stop-color="#8FCBB0" stop-opacity="0"/>
+    </linearGradient>
+
+    <radialGradient id="glow">
+      <stop offset="0%" stop-color="#A8DCC2" stop-opacity=".2"/>
+      <stop offset="100%" stop-color="#A8DCC2" stop-opacity="0"/>
+    </radialGradient>
   </defs>
 
   <rect width="1200" height="170" rx="16" fill="url(#background)"/>
 
-  <circle cx="100" cy="150" r="120" fill="#A8DCC2" opacity=".035"/>
-  <circle cx="1100" cy="20" r="150" fill="#8FCBB0" opacity=".05"/>
+  <!-- Ambient glow -->
+  <circle cx="100" cy="150" r="120" fill="url(#glow)">
+    <animate attributeName="r" values="100;140;100" dur="8s" repeatCount="indefinite"/>
+  </circle>
 
-  <path d="M0 35 Q300 95 600 35 T1200 50" fill="none" stroke="#A8DCC2" stroke-opacity=".18" stroke-width="2"/>
+  <circle cx="1100" cy="20" r="150" fill="url(#glow)">
+    <animate attributeName="r" values="130;175;130" dur="9s" repeatCount="indefinite"/>
+  </circle>
 
-  <text x="600" y="100" text-anchor="middle" fill="#F4F4E9" font-family="Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="5">BUILD · LEARN · IMPROVE</text>
+  <!-- Animated wave -->
+  <path d="M0 35 Q300 95 600 35 T1200 50"
+    fill="none" stroke="#A8DCC2" stroke-opacity=".18" stroke-width="2">
+    <animate attributeName="d"
+      values="M0 35 Q300 95 600 35 T1200 50;M0 50 Q300 5 600 55 T1200 35;M0 35 Q300 95 600 35 T1200 50"
+      dur="10s" repeatCount="indefinite"/>
+  </path>
 
-  <text x="600" y="130" text-anchor="middle" fill="#A8DCC2" font-family="Arial, sans-serif" font-size="12" letter-spacing="3">THANK YOU FOR VISITING MY PROFILE</text>
+  <!-- Moving accent -->
+  <rect x="0" y="36" width="1200" height="1.5" fill="url(#accent)" opacity=".6">
+    <animate attributeName="opacity" values=".2;.8;.2" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Floating particles -->
+  <g fill="#A8DCC2">
+    <circle cx="200" cy="125" r="2" opacity=".5">
+      <animate attributeName="cy" values="125;110;125" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".2;.8;.2" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1000" cy="115" r="2" opacity=".5">
+      <animate attributeName="cy" values="115;98;115" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="400" cy="145" r="1.8" opacity=".4">
+      <animate attributeName="cy" values="145;130;145" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="800" cy="135" r="2" opacity=".5">
+      <animate attributeName="cy" values="135;118;135" dur="5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Main tagline -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="1.5s" fill="freeze"/>
+    <text x="600" y="100" text-anchor="middle"
+      fill="#F4F4E9" font-family="Arial, sans-serif"
+      font-size="26" font-weight="700" letter-spacing="5">
+      BUILD · LEARN · IMPROVE
+    </text>
+  </g>
+
+  <!-- Animated underline -->
+  <rect x="480" y="112" width="240" height="1.5" fill="url(#accent)">
+    <animate attributeName="opacity" values=".25;1;.25" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Footer subtitle -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin=".7s" dur="1.5s" fill="freeze"/>
+    <text x="600" y="140" text-anchor="middle"
+      fill="#A8DCC2" font-family="Arial, sans-serif"
+      font-size="12" letter-spacing="3">
+      THANK YOU FOR VISITING MY PROFILE
+    </text>
+  </g>
 </svg>
