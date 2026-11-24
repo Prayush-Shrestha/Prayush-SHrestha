@@ -424,22 +424,26 @@ More experiments and smaller applications from my development journey.
 
 ---
 
-## 08 / Connect With Me
+---
 
-I'm always interested in learning, building projects and connecting with people in software development, AI and data.
+## 08 / Connect With Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-101B18?style=for-the-badge&logo=github&logoColor=F4F4E9)](https://github.com/Prayush-Shrestha)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-183B32?style=for-the-badge&logo=linkedin&logoColor=A8DCC2)](https://www.linkedin.com/in/prayushshrestha07/)
-[![Gmail](https://img.shields.io/badge/Gmail-244D40?style=for-the-badge&logo=gmail&logoColor=F4F4E9)](mailto:prayush1823@gmail.com)
+I'm always interested in learning, building projects and connecting with people<br/>in software development, AI and data.
 
 <br/>
 
-### Curiosity drives the process. Consistency builds the results.
+<a href="https://github.com/Prayush-Shrestha"><img src="https://img.shields.io/badge/GitHub-101B18?style=for-the-badge&logo=github&logoColor=F4F4E9" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/prayushshrestha07/"><img src="https://img.shields.io/badge/LinkedIn-183B32?style=for-the-badge&logo=linkedin&logoColor=A8DCC2" alt="LinkedIn"/></a>
+<a href="mailto:prayush1823@gmail.com"><img src="https://img.shields.io/badge/Email-244D40?style=for-the-badge&logo=gmail&logoColor=F4F4E9" alt="Email"/></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1500&color=2E8B6A&center=true&vCenter=true&width=700&height=40&lines=Curiosity+drives+the+process.;Consistency+builds+the+results." alt="Curiosity drives the process. Consistency builds the results." />
 
 <br/>
 
-<img src="./footer.svg" width="100%" alt="Build Learn Improve — Thank you for visiting my profile"/>
+<img src="./footer.svg" width="100%" alt="Build Learn Improve, thank you for visiting my profile" />
 
 </div>
