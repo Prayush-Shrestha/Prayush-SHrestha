@@ -1,12 +1,14 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:080B09,50:14251B,100:263F2B&text=PRAYUSH.&fontColor=E5F5E9&fontSize=75&fontAlignY=48&desc=SOFTWARE%20ENGINEERING%20%2F%20AI%20%2F%20DATA%20SYSTEMS&descSize=12&descColor=A6C7AE&descAlignY=68&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0B0B0D&text=PRAYUSH%20SHRESTHA&fontColor=F4F0E8&fontSize=58&fontAlignY=43&desc=SOFTWARE%20%2F%20AI%20%2F%20DATA%20%2F%20ENGINEERING&descColor=E49A5B&descSize=13&descAlignY=65" width="100%" />
 
 <br/>
 
-**I build systems. I explore intelligence. I engineer possibilities.**
+### I BUILD THINGS THAT SOLVE REAL PROBLEMS.
 
-[GitHub](https://github.com/Prayush-Shrestha) / [Repositories](https://github.com/Prayush-Shrestha?tab=repositories) / [Contact](mailto:prayush1823@gmail.com)
+Software development · Artificial intelligence · Data systems
+
+[GitHub](https://github.com/Prayush-Shrestha) &nbsp; / &nbsp; [All Projects](https://github.com/Prayush-Shrestha?tab=repositories) &nbsp; / &nbsp; [Email](mailto:prayush1823@gmail.com)
 
 </div>
 
@@ -14,202 +16,283 @@
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="62%" valign="top">
 
-### 01 / THE ENGINEER
+## A LITTLE ABOUT ME
 
-I'm Prayush Shrestha, a Computing student interested in building intelligent software and engineering systems that solve real problems.
+I'm **Prayush Shrestha**, a BSc (Hons) Computing student interested in building practical software and exploring intelligent technologies.
 
-I work across the intersection of full-stack development, artificial intelligence, machine learning, and data engineering.
+I work on projects ranging from full-stack web applications and management systems to machine learning experiments and data-focused applications.
 
-I enjoy understanding how things work beneath the interface — from backend architecture and databases to machine learning pipelines and cloud infrastructure.
+I enjoy learning how systems work, solving technical problems, and turning ideas into working products.
 
-**I don't just want to use technology. I want to understand how to engineer it.**
+My long-term direction is at the intersection of **AI/ML, Data Engineering and Cloud Computing.**
 
 </td>
-<td width="35%" valign="top">
+<td width="38%" valign="top">
 
-### 02 / CURRENT STATUS
+## QUICK PROFILE
 
 ```yaml
-identity: Software Engineer
-education: BSc Computing
+name: Prayush Shrestha
+role: Computing Student
+location: Nepal
 
 interests:
-  - AI / ML
+  - Software Engineering
+  - AI / Machine Learning
   - Data Engineering
-  - Cloud Systems
-  - Full-Stack
+  - Cloud Computing
 
-mindset: Build & Experiment
-location: Nepal
+currently:
+  building: Personal Projects
+  exploring: Intelligent Systems
 ```
 
 </td>
 </tr>
 </table>
 
-## 03 / THE DIRECTION
+---
 
-```text
-                  SOFTWARE ENGINEERING
-                           |
-             +-------------+-------------+
-             |             |             |
-          AI / ML      DATA SYSTEMS    CLOUD
-             |             |             |
-        Intelligence   Pipelines     Infrastructure
-        Prediction     Processing    Deployment
-        Automation     Analytics     Scalability
-             |             |             |
-             +-------------+-------------+
-                           |
-                    INTELLIGENT SYSTEMS
-```
+## 01 / SELECTED PROJECTS
 
-## 04 / SELECTED ENGINEERING
-
-*Projects, experiments and systems I am building.*
+*Different problems. Different technologies. One continuous learning journey.*
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**01 — LUMINA**
+### 01. AI-PREDICTION
 
-`AI / RAG / KNOWLEDGE SYSTEMS`
+**NEPSE Direction Tracker**
 
-An AI research and knowledge assistant designed to transform documents into searchable, interactive knowledge.
+A machine learning-based financial analytics dashboard exploring next-session stock direction prediction for NEPSE-listed stocks.
 
-- Document intelligence
-- Retrieval-Augmented Generation
-- Vector search
-- Knowledge management
+- Random Forest and model comparison
+- Technical indicator engineering
+- Prediction API
+- Analytics dashboard
 
-`NEXT.JS` `FASTAPI` `POSTGRESQL` `PGVECTOR`
+`PYTHON` `FASTAPI` `SCIKIT-LEARN` `NEXT.JS`
+
+[VIEW SOURCE ↗](https://github.com/Prayush-Shrestha/AI-Prediction)
 
 </td>
 <td width="50%" valign="top">
 
-**02 — RESUME INTELLIGENCE**
+### 02. LUMINA
 
-`NLP / CAREER TECHNOLOGY`
+**AI Research & Knowledge Assistant**
 
-An AI-powered resume analysis and career intelligence platform designed to evaluate resumes, identify skill gaps, and guide career development.
+An AI-powered research application for organising information and generating structured insights from research material.
 
-- Resume intelligence
-- Skill gap analysis
-- Job matching
-- Career recommendations
+- Research assistance
+- Document-based knowledge workflows
+- AI-powered information retrieval
+- Full-stack application
 
-`PYTHON` `FASTAPI` `NEXT.JS` `MYSQL`
+`NEXT.JS` `TYPESCRIPT` `PYTHON` `FASTAPI`
+
+[VIEW SOURCE ↗](https://github.com/Prayush-Shrestha/ai-research-helper)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**03 — DATAPULSE AI**
+### 03. PS PERFUME
 
-`DATA ENGINEERING / MACHINE LEARNING`
+**E-Commerce Application**
 
-A data-driven weather anomaly detection project exploring data processing, analytics, and intelligent anomaly identification.
+A full-stack perfume shopping application with a modern product browsing and shopping experience.
 
-- Weather data processing
-- Anomaly detection
-- Data pipeline concepts
-- Automated analysis
+- Product management
+- E-commerce functionality
+- Authentication
+- Backend integration
 
-`PYTHON` `DATA ENGINEERING` `MACHINE LEARNING`
+`NEXT.JS` `NODE.JS` `EXPRESS` `MONGODB`
+
+[VIEW SOURCE ↗](https://github.com/Prayush-Shrestha/PSPerfume)
 
 </td>
 <td width="50%" valign="top">
 
-**04 — OCTACORE**
+### 04. SEWAPORTAL
 
-`WEB ENGINEERING / CMS`
+**Community Services Platform**
 
-Contributing to a modern web platform with dynamic content management and frontend integration.
+A centralised platform for accessing public services, tracking applications, managing documents, and reporting issues.
 
-- API integration
-- Dynamic website content
-- CMS architecture
-- Frontend development
+- Service information
+- Application tracking
+- Document management
+- Payment and issue management
 
-`REACT` `TYPESCRIPT` `STRAPI` `VITE`
+`WEB DEVELOPMENT` `DATABASE` `FULL-STACK`
 
-[Explore OctaCore](https://github.com/Prayush-Shrestha/octacore)
+[VIEW SOURCE ↗](https://github.com/Prayush-Shrestha/SewaPortal)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 05. HAMRO KHATA
+
+**Management Dashboard**
+
+A task and employee management system for organising assignments, priorities and deadlines.
+
+`DASHBOARD` `MANAGEMENT` `WEB DEVELOPMENT`
+
+[VIEW SOURCE ↗](https://github.com/Prayush-Shrestha/hamrokhata-dashboard)
+
+</td>
+<td width="50%" valign="top">
+
+### 06. SMART COURSEWORK
+
+**Data Preparation**
+
+A Python-based project focused on preparing, cleaning and processing coursework-related datasets.
+
+`PYTHON` `JUPYTER` `DATA PROCESSING`
+
+[VIEW SOURCE ↗](https://github.com/Prayush-Shrestha/Smart-Coursework)
 
 </td>
 </tr>
 </table>
 
-## 05 / THE TOOLBOX
+### MORE EXPERIMENTS
 
-*Technologies I work with and continue exploring.*
-
-**LANGUAGES**
-
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp&theme=dark" />
-
-**FRONTEND ENGINEERING**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
-
-**BACKEND & DATABASE SYSTEMS**
-
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,mysql,postgres,mongodb&theme=dark" />
-
-**AI / DATA / INFRASTRUCTURE**
-
-<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,docker,aws,git,github&theme=dark" />
-
-## 06 / CURRENT RESEARCH & LEARNING
-
-| DOMAIN | EXPLORATION |
-|:--|:--|
-| Artificial Intelligence | Machine Learning, NLP, RAG |
-| Data Engineering | ETL, Data Pipelines, Data Processing |
-| Backend Engineering | API Design, System Architecture |
-| Cloud Computing | AWS, Docker, Deployment |
-| Software Engineering | Scalable Applications, TypeScript |
-
-## 07 / GITHUB ACTIVITY
+| PROJECT | AREA |
+|---|---|
+| [Wallora](https://github.com/Prayush-Shrestha/wallora) | Wallpaper discovery application |
+| [TaskFlow](https://github.com/Prayush-Shrestha/TaskFlow-Management-System) | Task management |
+| [3D Ball](https://github.com/Prayush-Shrestha/3D-Ball) | 3D game development |
+| [2D Car Racing](https://github.com/Prayush-Shrestha/2D-Car-Racing) | Game development |
+| [Expense Tracker](https://github.com/Prayush-Shrestha/Expense-Tracker) | Personal finance application |
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Prayush-Shrestha&show_icons=true&hide_border=true&bg_color=080B09&title_color=9DE5A9&icon_color=9DE5A9&text_color=C5D1C7" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prayush-Shrestha&layout=compact&hide_border=true&bg_color=080B09&title_color=9DE5A9&text_color=C5D1C7" width="49%" />
-
-<img src="https://streak-stats.demolab.com?user=Prayush-Shrestha&hide_border=true&background=080B09&ring=9DE5A9&fire=9DE5A9&currStreakLabel=9DE5A9&sideLabels=C5D1C7&dates=84958A" width="75%" />
+[EXPLORE ALL 25 REPOSITORIES →](https://github.com/Prayush-Shrestha?tab=repositories)
 
 </div>
 
-## 08 / BEYOND THE CODE
+---
 
-I am interested in more than just writing code.
+## 02 / TECHNOLOGY & TOOLS
 
-- Exploring emerging AI technologies.
-- Understanding how large-scale systems are engineered.
-- Experimenting with product ideas and software architecture.
-- Learning how data can create meaningful intelligence.
-- Exploring interactive applications and game development.
+**PROGRAMMING LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,c,cpp&theme=light" />
+
+**FRONTEND DEVELOPMENT**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap&theme=light" />
+
+**BACKEND & DATABASE**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mysql,mongodb,postgres&theme=light" />
+
+**AI / DATA / DEVELOPMENT TOOLS**
+
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,docker,aws,git,github,linux&theme=light" />
+
+---
+
+## 03 / WHAT I'M EXPLORING
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**ARTIFICIAL INTELLIGENCE**
+
+- Machine Learning
+- Natural Language Processing
+- AI-powered applications
+- Model evaluation
+- Retrieval-Augmented Generation
+
+</td>
+<td width="50%" valign="top">
+
+**DATA ENGINEERING**
+
+- Data cleaning and processing
+- Python and SQL
+- ETL fundamentals
+- Data pipelines
+- Analytics and visualisation
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**SOFTWARE ENGINEERING**
+
+- Full-stack architecture
+- API development
+- Database design
+- Application development
+
+</td>
+<td width="50%" valign="top">
+
+**CLOUD & INFRASTRUCTURE**
+
+- AWS fundamentals
+- Docker
+- Deployment
+- Scalable application architecture
+
+</td>
+</tr>
+</table>
+
+---
+
+## 04 / DEVELOPMENT PHILOSOPHY
+
+```text
+01  Understand the problem.
+02  Design the solution.
+03  Build with purpose.
+04  Test, learn and improve.
+05  Keep exploring.
+```
+
+I believe good engineering is not about using the most technologies. It's about choosing the right tools and building something useful.
+
+---
+
+## 05 / GITHUB ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Prayush-Shrestha&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=252525&icon_color=DA8950&text_color=555555" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prayush-Shrestha&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=252525&text_color=555555" width="49%" />
+
+</div>
 
 ---
 
 <div align="center">
 
-### LET'S BUILD SOMETHING MEANINGFUL.
+<img src="https://capsule-render.vercel.app/api?type=rect&height=175&color=0B0B0D&text=THE%20NEXT%20IDEA%20STARTS%20HERE.&fontColor=F4F0E8&fontSize=27&fontAlignY=45&desc=ALWAYS%20BUILDING.%20ALWAYS%20LEARNING.&descColor=E49A5B&descSize=12&descAlignY=69" width="100%" />
 
-**Curiosity is the starting point. Engineering is the process.**
+### LET'S CONNECT
 
-[EXPLORE MY REPOSITORIES](https://github.com/Prayush-Shrestha?tab=repositories)
+[GitHub](https://github.com/Prayush-Shrestha) · [Email](mailto:prayush1823@gmail.com)
 
-<br/>
+**PRAYUSH SHRESTHA**
 
-<sub>PRAYUSH SHRESTHA · SOFTWARE ENGINEERING · NEPAL</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:263F2B,100:080B09&height=100&section=footer" width="100%" />
+<sub>SOFTWARE · INTELLIGENCE · ENGINEERING</sub>
 
 </div>
