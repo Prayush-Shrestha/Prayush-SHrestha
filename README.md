@@ -1,182 +1,408 @@
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="1200" height="280">
-  <defs>
-    <linearGradient id="background" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#101B18">
-        <animate attributeName="stop-color"
-          values="#101B18;#183B32;#101B18"
-          dur="12s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="55%" stop-color="#183B32">
-        <animate attributeName="stop-color"
-          values="#183B32;#244D40;#183B32"
-          dur="12s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#244D40"/>
-    </linearGradient>
+<div align="center">
 
-    <linearGradient id="light" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#8FCBB0" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#A8DCC2"/>
-      <stop offset="100%" stop-color="#8FCBB0" stop-opacity="0"/>
-    </linearGradient>
+<img src="./header.svg" width="100%" alt="Prayush Shrestha — Software Developer, AI/ML, Data Analytics, Data Engineering and Cloud" />
 
-    <radialGradient id="glow">
-      <stop offset="0%" stop-color="#A8DCC2" stop-opacity=".22"/>
-      <stop offset="100%" stop-color="#A8DCC2" stop-opacity="0"/>
-    </radialGradient>
+*Building useful software. Exploring intelligent systems. Turning data into insights.*
 
-    <filter id="softGlow">
-      <feGaussianBlur stdDeviation="5"/>
-    </filter>
-  </defs>
+[GitHub](https://github.com/Prayush-Shrestha) · [LinkedIn](https://www.linkedin.com/in/prayushshrestha07/) · [Email](mailto:prayush1823@gmail.com)
 
-  <!-- Background -->
-  <rect width="1200" height="280" rx="18" fill="url(#background)"/>
+</div>
 
-  <!-- Ambient glow -->
-  <circle cx="1020" cy="65" r="150" fill="url(#glow)">
-    <animate attributeName="r"
-      values="130;170;130" dur="8s" repeatCount="indefinite"/>
-    <animate attributeName="opacity"
-      values=".5;1;.5" dur="8s" repeatCount="indefinite"/>
-  </circle>
+---
 
-  <circle cx="130" cy="220" r="130" fill="url(#glow)">
-    <animate attributeName="r"
-      values="110;145;110" dur="10s" repeatCount="indefinite"/>
-  </circle>
+## 01 / About Me
 
-  <!-- Floating decorative circles -->
-  <g fill="#A8DCC2">
-    <circle cx="170" cy="65" r="2" opacity=".5">
-      <animate attributeName="cy"
-        values="65;48;65" dur="5s" repeatCount="indefinite"/>
-      <animate attributeName="opacity"
-        values=".2;.8;.2" dur="5s" repeatCount="indefinite"/>
-    </circle>
+Hi, I'm **Prayush Shrestha**, a BSc (Hons) Computing student and software developer from Kathmandu, Nepal.
 
-    <circle cx="1020" cy="190" r="2.5" opacity=".5">
-      <animate attributeName="cy"
-        values="190;170;190" dur="6s" repeatCount="indefinite"/>
-      <animate attributeName="opacity"
-        values=".2;.8;.2" dur="6s" repeatCount="indefinite"/>
-    </circle>
+I enjoy turning ideas into practical software — from full-stack web applications and machine learning experiments to data analysis and data-driven systems.
 
-    <circle cx="900" cy="55" r="2" opacity=".4">
-      <animate attributeName="cy"
-        values="55;70;55" dur="7s" repeatCount="indefinite"/>
-    </circle>
+My interests bring together **Software Development, AI/ML, Data Analytics, Data Engineering and Cloud Computing**. I'm building my skills through practical projects, experimentation and continuous learning.
 
-    <circle cx="280" cy="205" r="2" opacity=".4">
-      <animate attributeName="cy"
-        values="205;188;205" dur="6s" repeatCount="indefinite"/>
-    </circle>
+- Building web applications and backend systems.
+- Exploring machine learning and AI-powered applications.
+- Working with data analysis, visualization and reporting.
+- Learning data processing, ETL and data pipeline concepts.
+- Exploring cloud technologies and application deployment.
+- Experimenting with interactive applications and game development.
 
-    <circle cx="750" cy="225" r="1.8" opacity=".5">
-      <animate attributeName="cy"
-        values="225;210;225" dur="5s" repeatCount="indefinite"/>
-    </circle>
-  </g>
+---
 
-  <!-- Moving background waves -->
-  <path d="M0 220 Q300 160 600 220 T1200 205"
-    fill="none"
-    stroke="#A8DCC2"
-    stroke-opacity=".18"
-    stroke-width="2">
-    <animate attributeName="d"
-      values="M0 220 Q300 160 600 220 T1200 205;M0 205 Q300 245 600 195 T1200 220;M0 220 Q300 160 600 220 T1200 205"
-      dur="12s" repeatCount="indefinite"/>
-  </path>
+## 02 / Selected Projects
 
-  <path d="M0 240 Q300 180 600 240 T1200 225"
-    fill="none"
-    stroke="#A8DCC2"
-    stroke-opacity=".10"
-    stroke-width="2">
-    <animate attributeName="d"
-      values="M0 240 Q300 180 600 240 T1200 225;M0 225 Q300 265 600 215 T1200 240;M0 240 Q300 180 600 240 T1200 225"
-      dur="14s" repeatCount="indefinite"/>
-  </path>
+A selection of projects showcasing my work and interests across software development, AI, data-driven applications and interactive systems.
 
-  <!-- Main heading -->
-  <g opacity="0">
-    <animate attributeName="opacity"
-      from="0" to="1" dur="1.5s" fill="freeze"/>
-    <text x="600" y="110"
-      text-anchor="middle"
-      fill="#F4F4E9"
-      font-family="Arial, sans-serif"
-      font-size="52"
-      font-weight="700"
-      letter-spacing="4">
-      PRAYUSH SHRESTHA
-    </text>
-  </g>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-  <!-- Animated accent line -->
-  <rect x="390" y="140" width="420" height="2" fill="url(#light)">
-    <animate attributeName="opacity"
-      values=".35;1;.35" dur="3s" repeatCount="indefinite"/>
-  </rect>
+### 01. NEPSE Direction Tracker
 
-  <rect x="390" y="140" width="0" height="2"
-    fill="#F4F4E9" opacity=".7">
-    <animate attributeName="width"
-      values="0;420;0" dur="7s" repeatCount="indefinite"/>
-  </rect>
+A stock market direction prediction dashboard using a Python FastAPI backend and Random Forest machine learning models to estimate the next-session direction of NEPSE-listed stocks.
 
-  <!-- Role -->
-  <g opacity="0">
-    <animate attributeName="opacity"
-      from="0" to="1" begin=".6s" dur="1.5s" fill="freeze"/>
-    <text x="600" y="180"
-      text-anchor="middle"
-      fill="#A8DCC2"
-      font-family="Arial, sans-serif"
-      font-size="17"
-      letter-spacing="5">
-      SOFTWARE DEVELOPER
-    </text>
-  </g>
+**Stack:** Python · FastAPI · Random Forest · Next.js
 
-  <!-- Specialization -->
-  <g opacity="0">
-    <animate attributeName="opacity"
-      from="0" to="1" begin="1.1s" dur="1.5s" fill="freeze"/>
-    <text x="600" y="210"
-      text-anchor="middle"
-      fill="#F4F4E9"
-      opacity=".75"
-      font-family="Arial, sans-serif"
-      font-size="13"
-      letter-spacing="2.5">
-      AI/ML · DATA ANALYTICS · DATA ENGINEERING · CLOUD
-    </text>
-  </g>
+[View Repository →](https://github.com/Prayush-Shrestha/AI-Prediction)
 
-  <!-- Small location label -->
-  <g opacity="0">
-    <animate attributeName="opacity"
-      from="0" to=".7" begin="1.5s" dur="1.5s" fill="freeze"/>
-    <text x="600" y="246"
-      text-anchor="middle"
-      fill="#A8DCC2"
-      font-family="Arial, sans-serif"
-      font-size="11"
-      letter-spacing="4">
-      KATHMANDU, NEPAL
-    </text>
-  </g>
+</td>
+<td width="50%" valign="top">
 
-  <!-- Subtle moving light -->
-  <ellipse cx="-100" cy="0" rx="80" ry="220"
-    fill="#A8DCC2"
-    opacity=".035"
-    filter="url(#softGlow)">
-    <animate attributeName="cx"
-      values="-100;1300" dur="14s" repeatCount="indefinite"/>
-  </ellipse>
+### 02. AI Research Helper
 
-</svg>
+An AI-focused project exploring ways to support research-related tasks through software.
+
+**Focus:** Artificial Intelligence · Research Tools · Software Development
+
+[View Repository →](https://github.com/Prayush-Shrestha/ai-research-helper)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03. PSPerfume
+
+A perfume e-commerce project focused on building a modern online shopping experience.
+
+**Stack:** Next.js · Node.js · Express.js · MongoDB · Clerk
+
+[View Repository →](https://github.com/Prayush-Shrestha/PSPerfume)
+
+</td>
+<td width="50%" valign="top">
+
+### 04. TaskFlow Management System
+
+A task management application for organizing tasks, priorities, deadlines and work assignments.
+
+**Stack:** React · Node.js · MySQL
+
+[View Repository →](https://github.com/Prayush-Shrestha/TaskFlow-Management-System)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 05. SewaPortal
+
+A community services portal providing public service information, document storage, application tracking, payment management, community polls and issue reporting.
+
+**Focus:** Web Development · Community Services
+
+[View Repository →](https://github.com/Prayush-Shrestha/SewaPortal)
+
+</td>
+<td width="50%" valign="top">
+
+### 06. Hamro Khata Dashboard
+
+A dashboard project focused on organizing tasks and presenting management information through a user interface.
+
+**Focus:** Dashboard Development · Web Development
+
+[View Repository →](https://github.com/Prayush-Shrestha/hamrokhata-dashboard)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 07. 3D Ball
+
+A 3D game project exploring ball movement, physics and interactive gameplay.
+
+**Focus:** 3D Game Development · Game Mechanics
+
+[View Repository →](https://github.com/Prayush-Shrestha/3D-Ball)
+
+</td>
+<td width="50%" valign="top">
+
+### 08. 2D Car Racing
+
+A 2D car racing game project exploring game mechanics and interactive gameplay.
+
+**Focus:** 2D Game Development · Game Logic
+
+[View Repository →](https://github.com/Prayush-Shrestha/2Dcarracing)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<br/>
+
+<a href="https://github.com/Prayush-Shrestha?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-183B32?style=for-the-badge&logo=github&logoColor=F4F4E9" alt="Explore all GitHub projects" />
+</a>
+
+<br/><br/>
+
+*More projects, experiments and development work.*
+
+</div>
+
+---
+
+## 03 / Technology Stack
+
+<div align="center">
+
+### THE TOOLS BEHIND MY WORK
+
+*Technologies I use, practise and explore through projects and learning.*
+
+</div>
+
+### 01 — Programming Languages
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=js" width="42" alt="JavaScript"/><br/>JavaScript</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=ts" width="42" alt="TypeScript"/><br/>TypeScript</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=python" width="42" alt="Python"/><br/>Python</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=java" width="42" alt="Java"/><br/>Java</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=c" width="42" alt="C"/><br/>C</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=cpp" width="42" alt="C++"/><br/>C++</td>
+</tr>
+</table>
+</div>
+
+### 02 — Frontend Development
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=html" width="42" alt="HTML5"/><br/>HTML5</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=css" width="42" alt="CSS3"/><br/>CSS3</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=react" width="42" alt="React"/><br/>React</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=nextjs" width="42" alt="Next.js"/><br/>Next.js</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=tailwind" width="42" alt="Tailwind CSS"/><br/>Tailwind CSS</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=bootstrap" width="42" alt="Bootstrap"/><br/>Bootstrap</td>
+</tr>
+</table>
+</div>
+
+### 03 — Backend & Databases
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=nodejs" width="42" alt="Node.js"/><br/>Node.js</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=express" width="42" alt="Express.js"/><br/>Express.js</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=fastapi" width="42" alt="FastAPI"/><br/>FastAPI</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=mysql" width="42" alt="MySQL"/><br/>MySQL</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=mongodb" width="42" alt="MongoDB"/><br/>MongoDB</td>
+</tr>
+</table>
+</div>
+
+### 04 — AI, Machine Learning & Data
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=python" width="42" alt="Python"/><br/>Python</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=aws" width="42" alt="AWS"/><br/>AWS</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=mysql" width="42" alt="SQL and MySQL"/><br/>SQL</td>
+</tr>
+</table>
+</div>
+
+**Data Analytics & Visualization**
+
+| Technology | Area |
+|:--|:--|
+| Pandas | Data manipulation and analysis |
+| NumPy | Numerical computing |
+| Matplotlib | Data visualization |
+| Seaborn | Statistical visualization |
+| Power BI | Business intelligence and reporting |
+| SQL | Data querying and database operations |
+
+**AI/ML & Data Engineering Concepts**
+
+- Machine Learning Fundamentals
+- Supervised Learning and Classification
+- Regression and Prediction Models
+- Random Forest and Model Evaluation
+- Data Preprocessing and Feature Engineering
+- Data Cleaning and Exploratory Data Analysis
+- ETL and Data Pipeline Fundamentals
+
+### 05 — Development Tools & Platforms
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=git" width="42" alt="Git"/><br/>Git</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub"/><br/>GitHub</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=vscode" width="42" alt="Visual Studio Code"/><br/>VS Code</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=godot" width="42" alt="Godot"/><br/>Godot</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=arduino" width="42" alt="Arduino"/><br/>Arduino</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 04 / Data Analytics & Engineering
+
+I'm developing a stronger foundation in data analytics and engineering through data-focused learning and practical projects.
+
+**Data Analytics**
+- Python for Data Analysis
+- Pandas and NumPy
+- Data Cleaning and Preparation
+- Exploratory Data Analysis (EDA)
+- Matplotlib and Seaborn
+- SQL and MySQL
+- Data Visualization
+- Business Intelligence and Power BI
+
+**Data Engineering**
+- Data Processing and Transformation
+- ETL Concepts
+- Data Pipeline Fundamentals
+- Database Design and Management
+- Cloud Computing Fundamentals
+- Data Infrastructure Concepts
+
+---
+
+## 05 / Current Learning Path
+
+### Artificial Intelligence & Machine Learning
+
+- Python for AI and Machine Learning
+- Machine Learning Fundamentals
+- Supervised Learning and Classification
+- Regression and Prediction Models
+- Random Forest and Model Evaluation
+- Data Preprocessing and Feature Engineering
+- AI-Powered Application Development
+
+### Data Analytics & Data Engineering
+
+- Python for Data Analysis
+- Pandas and NumPy
+- Data Cleaning and Transformation
+- Exploratory Data Analysis (EDA)
+- Matplotlib and Seaborn
+- SQL Queries and Database Design
+- Data Visualization and Power BI
+- ETL Processes and Data Pipeline Fundamentals
+- Cloud Computing and Data Infrastructure
+
+### Web & Software Development
+
+- React, Next.js and TypeScript
+- Responsive Web Design and UI Development
+- Full-Stack Web Application Development
+- JavaScript Programming and Application Logic
+- Clean, Reusable and Maintainable Code
+- REST API Development
+- Git, GitHub and Version Control
+
+### Game Development
+
+- Godot Engine and GDScript
+- 2D Game Development and Game Mechanics
+- 3D Game Development and Scene Design
+- Player Movement and Input Handling
+- Character and Object Controllers
+- Physics-Based Movement and Rigidbody Concepts
+- Collision Detection and Collision Handling
+- Gravity, Velocity, Acceleration and Momentum
+- Camera Controls and Smooth Camera Following
+- Level Design, TileMaps and Environment Building
+- Signals, Nodes, Scenes and Godot's Scene System
+- Animation Systems and AnimationPlayer
+- User Interface Design for Games
+- Score Systems, Health Systems and Game State Management
+- Timers, Checkpoints and Respawn Mechanics
+- Car Movement, Steering, Acceleration and Braking
+- Racing Mechanics, Track Design and Lap Systems
+- Enemy Behaviour and Basic Game AI
+- Game Optimization and Performance
+- Debugging and Testing Gameplay
+- Exporting and Publishing Games for PC and Web
+
+### Cloud & Development Tools
+
+- Cloud Computing Fundamentals
+- AWS Services and Cloud Infrastructure
+- Git and GitHub Workflows
+- Development Environments and Debugging
+- Application Deployment Fundamentals
+
+---
+
+## 06 / Other Projects
+
+More experiments and smaller applications from my development journey.
+
+| Project | Description |
+|:--|:--|
+| [Smart Coursework](https://github.com/Prayush-Shrestha/Smart-Coursework) | Python-based coursework data preparation project |
+| [Wallora](https://github.com/Prayush-Shrestha/wallora) | Personal modern web experience |
+| [To-Do-List](https://github.com/Prayush-Shrestha/To-Do-List) | Daily task management application |
+| [Expense-Tracker](https://github.com/Prayush-Shrestha/Expense-Tracker) | Expense tracking with balance calculations |
+| [Currency](https://github.com/Prayush-Shrestha/Currency) | Currency conversion using web technologies |
+| [Wecare-Store](https://github.com/Prayush-Shrestha/Wecare-Store) | Store management project |
+| [Rock Paper Scissors](https://github.com/Prayush-Shrestha/rock-paper-scissors) | JavaScript game demonstrating game logic |
+| [Tic Tac Toe](https://github.com/Prayush-Shrestha/tic-tac-toe) | Browser-based game with win and draw detection |
+| [Background Color Change](https://github.com/Prayush-Shrestha/Background-Color-Change) | Interactive background color changing application |
+| [Modern Business](https://github.com/Prayush-Shrestha/Modern-Business) | Responsive business website |
+| [Bootstrap](https://github.com/Prayush-Shrestha/bootstrap) | Bootstrap learning and development |
+| [Calculator](https://github.com/Prayush-Shrestha/calculator) | Calculator application built with Python |
+
+<div align="center">
+
+[![Explore Repositories](https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-183B32?style=for-the-badge&logo=github&logoColor=F4F4E9)](https://github.com/Prayush-Shrestha?tab=repositories)
+
+</div>
+
+---
+
+## 07 / GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prayush-Shrestha&show_icons=true&hide_border=true&bg_color=101B18&title_color=A8DCC2&text_color=F4F4E9&icon_color=8FCBB0&rank_icon=github" alt="GitHub statistics" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prayush-Shrestha&layout=compact&hide_border=true&bg_color=101B18&title_color=A8DCC2&text_color=F4F4E9" alt="Most used programming languages" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Prayush-Shrestha&hide_border=true&background=FFFFFF&ring=183B32&fire=244D40&currStreakLabel=183B32&sideLabels=183B32&currStreakNum=183B32&sideNums=183B32&dates=687A70" alt="GitHub contribution streak" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prayush-Shrestha&bg_color=101B18&color=A8DCC2&line=8FCBB0&point=F4F4E9&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+
+</div>
+
+---
+
+## 08 / Connect With Me
+
+I'm always interested in learning, building projects and connecting with people in software development, AI and data.
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-101B18?style=for-the-badge&logo=github&logoColor=F4F4E9)](https://github.com/Prayush-Shrestha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-183B32?style=for-the-badge&logo=linkedin&logoColor=A8DCC2)](https://www.linkedin.com/in/prayushshrestha07/)
+[![Gmail](https://img.shields.io/badge/Gmail-244D40?style=for-the-badge&logo=gmail&logoColor=F4F4E9)](mailto:prayush1823@gmail.com)
+
+<br/>
+
+### Curiosity drives the process. Consistency builds the results.
+
+<img src="./footer.svg" width="100%" alt="Build Learn Improve — Thank you for visiting my profile" />
+
+</div>
