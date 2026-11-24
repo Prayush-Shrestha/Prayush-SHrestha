@@ -1,169 +1,171 @@
+ <div align="center">
 
-<div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:101B18,100:8FCBB0&height=230&section=header&text=PRAYUSH%20SHRESTHA&fontSize=46&fontColor=F4F4E9&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20%26%20DATA%20ENTHUSIAST&descSize=14&descAlignY=58&descColor=D4E8DC"
-    width="100%"
-    alt="Prayush Shrestha GitHub Banner"
-  />
-</div>
-
+<img src="./header.svg" width="100%" alt="Prayush Shrestha — Software Developer"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=8FCBB0&center=true&vCenter=true&width=650&lines=Turning+ideas+into+working+software.;Building+for+the+web%2C+data+and+AI.;Learning+by+building+real+projects.;Curious+mind.+Practical+builder." alt="Typing introduction"/>
+**SOFTWARE DEVELOPER · AI/ML · DATA ENGINEERING**
+
+<br/>
+
+Building useful things. Exploring intelligent systems. Learning by doing.
+
+<br/>
+
+<a href="https://github.com/Prayush-Shrestha">GitHub</a>
+&nbsp; / &nbsp;
+<a href="https://www.linkedin.com/in/prayushshrestha07/">LinkedIn</a>
+&nbsp; / &nbsp;
+<a href="mailto:prayush1823@gmail.com">Email</a>
 
 <br/><br/>
 
-<a href="https://github.com/Prayush-Shrestha"><img src="https://img.shields.io/badge/GITHUB-101B18?style=flat-square&logo=github&logoColor=8FCBB0"/></a>
-<a href="https://www.linkedin.com/in/prayushshrestha07/"><img src="https://img.shields.io/badge/LINKEDIN-101B18?style=flat-square&logo=linkedin&logoColor=8FCBB0"/></a>
-<a href="mailto:prayush1823@gmail.com"><img src="https://img.shields.io/badge/EMAIL-101B18?style=flat-square&logo=gmail&logoColor=8FCBB0"/></a>
-
-<br/>
-
-<sub>KATHMANDU, NEPAL · COMPUTING STUDENT · ALWAYS BUILDING</sub>
+<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20DATA-244D40?style=flat-square" alt="Focus: AI and Data"/>
+<img src="https://img.shields.io/badge/BASED%20IN-KATHMANDU%2C%20NEPAL-244D40?style=flat-square" alt="Kathmandu, Nepal"/>
+<img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-244D40?style=flat-square" alt="Always learning"/>
 
 </div>
 
 ---
 
-## 01 — A little about me
+## 01 / About
 
-I'm **Prayush Shrestha**, a BSc (Hons) Computing student interested in the intersection of software engineering, artificial intelligence and data.
+Hi, I'm **Prayush Shrestha**, a Computing student and developer from Kathmandu, Nepal.
 
-I enjoy taking an idea from concept to implementation — designing interfaces, building backend systems, working with databases and experimenting with machine learning.
+I enjoy building software that solves practical problems — from full-stack web applications to machine learning experiments and data-driven systems.
 
-My current direction is **AI/ML + Data Engineering + Cloud**, with full-stack development as my foundation.
+My current learning direction is **AI/ML + Data Engineering + Cloud**, supported by a foundation in full-stack development.
 
-- Building web applications and practical software projects.
-- Exploring machine learning and AI-powered applications.
-- Learning data analysis, data pipelines and cloud infrastructure.
-- Experimenting with 2D and 3D game development.
-- Improving through experimentation, problem-solving and hands-on work.
+- Developing web applications and backend systems.
+- Exploring machine learning and AI-powered products.
+- Learning data processing, analytics and engineering workflows.
+- Experimenting with game development and interactive experiences.
+- Improving my skills through practical projects.
 
 ---
 
-## 02 — Selected work
+## 02 / Selected projects
 
-*A collection of things I've built, explored and learned from.*
+A selection of projects from my development journey.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 01. NEPSE Direction Tracker
+**01 — NEPSE Direction Tracker**
 
-A stock market direction prediction dashboard using machine learning to estimate the next-session direction of NEPSE-listed stocks.
+Stock market direction prediction dashboard using a Random Forest machine learning model.
 
-`Python` `FastAPI` `Random Forest` `ML` `Next.js`
+`Python` `FastAPI` `Random Forest`
 
-<a href="https://github.com/Prayush-Shrestha/AI-Prediction">↗ Explore repository</a>
+[View repository →](https://github.com/Prayush-Shrestha/AI-Prediction)
 
 </td>
 <td width="50%" valign="top">
 
-### 02. AI Research Helper
+**02 — AI Research Helper**
 
-An AI-focused software project exploring ways to support research-related tasks.
+An AI-focused project exploring research support and intelligent software.
 
-`Artificial Intelligence` `Research` `Software`
+`AI` `Research` `Development`
 
-<a href="https://github.com/Prayush-Shrestha/ai-research-helper">↗ Explore repository</a>
+[View repository →](https://github.com/Prayush-Shrestha/ai-research-helper)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 03. PSPerfume
+**03 — PSPerfume**
 
-A perfume e-commerce project focused on a modern online shopping experience.
+A perfume e-commerce application built around an online shopping experience.
 
 `Next.js` `Node.js` `Express` `MongoDB` `Clerk`
 
-<a href="https://github.com/Prayush-Shrestha/PSPerfume">↗ Explore repository</a>
+[View repository →](https://github.com/Prayush-Shrestha/PSPerfume)
 
 </td>
 <td width="50%" valign="top">
 
-### 04. TaskFlow Management System
+**04 — TaskFlow Management System**
 
-A task management application for organizing work, priorities, deadlines and assignments.
+A task management system for organizing work, priorities, deadlines and assignments.
 
 `React` `Node.js` `MySQL`
 
-<a href="https://github.com/Prayush-Shrestha/TaskFlow-Management-System">↗ Explore repository</a>
+[View repository →](https://github.com/Prayush-Shrestha/TaskFlow-Management-System)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 05. SewaPortal
+**05 — SewaPortal**
 
-A community services portal with public service information, document storage, application tracking, payments, polls and issue reporting.
+A community services portal featuring service information, document storage, application tracking, payments, polls and issue reporting.
 
 `Web Development` `Community Services`
 
-<a href="https://github.com/Prayush-Shrestha/SewaPortal">↗ Explore repository</a>
+[View repository →](https://github.com/Prayush-Shrestha/SewaPortal)
 
 </td>
 <td width="50%" valign="top">
 
-### 06. Hamro Khata Dashboard
+**06 — Hamro Khata Dashboard**
 
-A dashboard project focused on task organization and management information.
+A dashboard project focused on task and employee management.
 
 `Dashboard` `Web Development`
 
-<a href="https://github.com/Prayush-Shrestha/hamrokhata-dashboard">↗ Explore repository</a>
+[View repository →](https://github.com/Prayush-Shrestha/hamrokhata-dashboard)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 07. 3D Ball
+**07 — 3D Ball**
 
-An interactive 3D game exploring ball movement, physics and gameplay mechanics.
+An interactive 3D game exploring movement, physics and gameplay mechanics.
 
 `3D` `Game Development`
 
-<a href="https://github.com/Prayush-Shrestha/3D-Ball">↗ Explore repository</a>
+[View repository →](https://github.com/Prayush-Shrestha/3D-Ball)
 
 </td>
 <td width="50%" valign="top">
 
-### 08. 2D Car Racing
+**08 — 2D Car Racing**
 
 A 2D racing game project exploring game mechanics and interactive gameplay.
 
 `2D` `Game Development`
 
-<a href="https://github.com/Prayush-Shrestha/2Dcarracing">↗ Explore repository</a>
+[View repository →](https://github.com/Prayush-Shrestha/2Dcarracing)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 09. Smart Coursework
+**09 — Smart Coursework**
 
 A data preparation project using Python and Jupyter Notebook.
 
-`Python` `Jupyter` `Data Preparation`
+`Python` `Jupyter` `Data`
 
-<a href="https://github.com/Prayush-Shrestha/Smart-Coursework">↗ Explore repository</a>
+[View repository →](https://github.com/Prayush-Shrestha/Smart-Coursework)
 
 </td>
 <td width="50%" valign="top">
 
-### 10. Wallora
+**10 — Wallora**
 
-A personal project focused on developing a modern web experience.
+A personal project focused on creating a modern web experience.
 
 `Web Development` `Personal Project`
 
-<a href="https://github.com/Prayush-Shrestha/wallora">↗ Explore repository</a>
+[View repository →](https://github.com/Prayush-Shrestha/wallora)
 
 </td>
 </tr>
@@ -171,144 +173,81 @@ A personal project focused on developing a modern web experience.
 
 <div align="center">
 
-<a href="https://github.com/Prayush-Shrestha?tab=repositories">VIEW ALL REPOSITORIES ↗</a>
+[EXPLORE ALL MY REPOSITORIES →](https://github.com/Prayush-Shrestha?tab=repositories)
 
 </div>
 
 ---
 
-## 03 — The toolbox
+## 03 / Technology stack
 
-*Technologies and tools I work with or explore.*
+**Languages**
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp" alt="Programming languages"/>
 
-**LANGUAGES**
+**Frontend**
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" alt="Frontend technologies"/>
 
-<br/><br/>
+**Backend and databases**
 
-**FRONTEND**
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mysql,mongodb" alt="Backend and databases"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&theme=dark" />
+**Tools and platforms**
 
-<br/><br/>
-
-**BACKEND & DATABASES**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mysql,mongodb&theme=dark" />
-
-<br/><br/>
-
-**TOOLS & PLATFORMS**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,aws,godot,arduino&theme=dark" />
-
-</div>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,aws,godot,arduino" alt="Tools and platforms"/>
 
 ---
 
-## 04 — Areas I'm exploring
+## 04 / Current learning path
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**AI & MACHINE LEARNING**
-
-- Python for AI/ML
-- Supervised learning
-- Classification and regression
-- Random Forest
-- Feature engineering
-- Model evaluation
-- AI-powered applications
-
-</td>
-<td width="50%" valign="top">
-
-**DATA & ENGINEERING**
-
-- Pandas and NumPy
-- Data cleaning and preparation
-- Exploratory data analysis
-- Matplotlib and Seaborn
-- SQL and database design
-- ETL fundamentals
-- Data pipelines and cloud
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**WEB & SOFTWARE**
-
-- React and Next.js
-- TypeScript and JavaScript
-- Full-stack development
-- REST APIs
-- Responsive interfaces
-- Clean and reusable code
-- Git and GitHub workflows
-
-</td>
-<td width="50%" valign="top">
-
-**GAME DEVELOPMENT**
-
-- Godot and GDScript
-- 2D and 3D mechanics
-- Physics and movement
-- Collision detection
-- Scenes and signals
-- Game logic and UI
-- Gameplay testing
-
-</td>
-</tr>
-</table>
+| Area | Exploring |
+|:--|:--|
+| Artificial Intelligence | Machine learning, model evaluation, AI applications |
+| Data Engineering | Data preparation, ETL, pipelines, SQL |
+| Cloud | Cloud fundamentals, deployment, infrastructure |
+| Software Engineering | Full-stack development, APIs, system design |
+| Game Development | Godot, 2D and 3D mechanics |
 
 ---
 
-## 05 — GitHub activity
+## 05 / Other projects
 
-<div align="center">
+A few more experiments and smaller applications:
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prayush-Shrestha&show_icons=true&hide_border=true&bg_color=101B18&title_color=8FCBB0&icon_color=8FCBB0&text_color=E5EAE3&rank_icon=github" alt="GitHub statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prayush-Shrestha&layout=compact&hide_border=true&bg_color=101B18&title_color=8FCBB0&text_color=E5EAE3" alt="Most used languages"/>
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=Prayush-Shrestha&hide_border=true&background=101B18&ring=8FCBB0&fire=8FCBB0&currStreakLabel=8FCBB0&sideLabels=E5EAE3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9AA89F" alt="GitHub contribution streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prayush-Shrestha&bg_color=101B18&color=E5EAE3&line=8FCBB0&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution activity graph"/>
-
-</div>
+- [To-Do List](https://github.com/Prayush-Shrestha/To-Do-List)
+- [Expense Tracker](https://github.com/Prayush-Shrestha/Expense-Tracker)
+- [Currency Converter](https://github.com/Prayush-Shrestha/Currency)
+- [Wecare Store](https://github.com/Prayush-Shrestha/Wecare-Store)
+- [Rock Paper Scissors](https://github.com/Prayush-Shrestha/rock-paper-scissors)
+- [Tic Tac Toe](https://github.com/Prayush-Shrestha/tic-tac-toe)
+- [Background Color Change](https://github.com/Prayush-Shrestha/Background-Color-Change)
+- [Modern Business](https://github.com/Prayush-Shrestha/Modern-Business)
+- [Bootstrap](https://github.com/Prayush-Shrestha/bootstrap)
+- [Calculator](https://github.com/Prayush-Shrestha/calculator)
 
 ---
 
-## 06 — Beyond the code
-
-I believe good development comes from staying curious, building consistently and being willing to learn something new.
-
-I'm currently focused on strengthening my foundations in software development while moving deeper into AI, data engineering and cloud technologies.
+## 06 / GitHub
 
 <div align="center">
 
-### LET'S BUILD SOMETHING MEANINGFUL.
-
-<a href="https://github.com/Prayush-Shrestha">GitHub</a> &nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/prayushshrestha07/">LinkedIn</a> &nbsp;·&nbsp;
-<a href="mailto:prayush1823@gmail.com">Email</a>
+<a href="https://github.com/Prayush-Shrestha?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-244D40?style=for-the-badge" alt="Explore repositories"/>
+</a>
 
 <br/><br/>
 
-<sub>DESIGNED THROUGH CODE · BUILT THROUGH CURIOSITY</sub>
+<a href="https://github.com/Prayush-Shrestha">
+<img src="https://img.shields.io/badge/FOLLOW-PRAYUSH%20SHRESTHA-244D40?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8FCBB0,100:101B18&section=footer" width="100%"/>
+<br/><br/>
+
+**Curiosity drives the process. Consistency builds the results.**
+
+<br/>
+
+<sub>DESIGNED WITH PURPOSE · BUILT THROUGH EXPERIENCE</sub>
 
 </div>
