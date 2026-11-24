@@ -14,18 +14,18 @@
 
 Hi, I'm **Prayush Shrestha**, a BSc (Hons) Computing student and software developer based in Kathmandu, Nepal.
 
-I enjoy turning ideas into practical software — from full-stack web applications and machine learning experiments to data analysis and data-driven systems.
+I like turning ideas into practical software, from full-stack web applications to machine learning experiments and data analysis. My interests meet at **software development, AI and machine learning, data analytics, data engineering and cloud computing**.
 
-My interests combine **Software Development, Artificial Intelligence, Machine Learning, Data Analytics, Data Engineering and Cloud Computing**.
+Right now I'm strengthening my foundation through hands-on projects, experiments and steady learning.
 
-Currently, I'm focused on strengthening my technical foundation through hands-on projects, experimentation and continuous learning.
+**What I'm working on**
 
-- Building full-stack web applications and backend systems.
-- Exploring machine learning and AI-powered applications.
-- Working with data analysis, visualization and reporting.
-- Learning data processing, ETL and data pipeline concepts.
-- Exploring cloud technologies and application deployment.
-- Experimenting with interactive applications and game development.
+- **Web:** full-stack web applications and backend systems
+- **AI and ML:** machine learning experiments and AI-powered applications
+- **Data:** analysis, visualization and reporting
+- **Data engineering:** data processing, ETL and data pipeline concepts
+- **Cloud:** cloud technologies and application deployment
+- **Games:** interactive applications and game development
 
 ---
 
