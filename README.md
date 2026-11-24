@@ -2,9 +2,9 @@
 
 <img src="./header.svg" width="100%" alt="Prayush Shrestha, Software Developer, AI/ML, Data Analytics, Data Engineering and Cloud" />
 
-<br/>
-
-**Building useful software &nbsp;·&nbsp; Exploring intelligent systems &nbsp;·&nbsp; Turning data into insights**
+<a href="https://github.com/Prayush-Shrestha">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=2E8B6A&center=true&vCenter=true&width=700&height=45&lines=Building+useful+software.;Exploring+intelligent+systems.;Turning+data+into+insights." alt="Building useful software. Exploring intelligent systems. Turning data into insights." />
+</a>
 
 <br/>
 
@@ -13,7 +13,6 @@
 <a href="mailto:prayush1823@gmail.com"><img src="https://img.shields.io/badge/Email-244D40?style=for-the-badge&logo=gmail&logoColor=F4F4E9" alt="Email"/></a>
 
 </div>
-
 ---
 
 ## 01 / About Me
