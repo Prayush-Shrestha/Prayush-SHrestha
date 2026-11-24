@@ -1,50 +1,53 @@
- <div align="center">
 
-<img src="./header.svg" width="100%" alt="Prayush Shrestha — Software Developer"/>
+<div align="center">
 
-<br/>
-
-**SOFTWARE DEVELOPER · AI/ML · DATA ENGINEERING**
+<img src="./header.svg" width="100%" alt="Prayush Shrestha - Software Developer"/>
 
 <br/>
+
+### SOFTWARE DEVELOPER · AI/ML · DATA ENGINEERING
 
 Building useful things. Exploring intelligent systems. Learning by doing.
 
 <br/>
 
-<a href="https://github.com/Prayush-Shrestha">GitHub</a>
-&nbsp; / &nbsp;
-<a href="https://www.linkedin.com/in/prayushshrestha07/">LinkedIn</a>
-&nbsp; / &nbsp;
-<a href="mailto:prayush1823@gmail.com">Email</a>
+<a href="https://github.com/Prayush-Shrestha">
+  <img src="https://img.shields.io/badge/GitHub-183B32?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/prayushshrestha07/">
+  <img src="https://img.shields.io/badge/LinkedIn-183B32?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:prayush1823@gmail.com">
+  <img src="https://img.shields.io/badge/Email-183B32?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20DATA-244D40?style=flat-square" alt="Focus: AI and Data"/>
-<img src="https://img.shields.io/badge/BASED%20IN-KATHMANDU%2C%20NEPAL-244D40?style=flat-square" alt="Kathmandu, Nepal"/>
-<img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-244D40?style=flat-square" alt="Always learning"/>
+<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20DATA-244D40?style=flat-square" alt="Focus"/>
+<img src="https://img.shields.io/badge/LOCATION-KATHMANDU%2C%20NEPAL-244D40?style=flat-square" alt="Location"/>
+<img src="https://img.shields.io/badge/MINDSET-ALWAYS%20LEARNING-244D40?style=flat-square" alt="Mindset"/>
 
 </div>
 
 ---
 
-## 01 / About
+## 01 / About Me
 
-Hi, I'm **Prayush Shrestha**, a Computing student and developer from Kathmandu, Nepal.
+Hi, I'm **Prayush Shrestha**, a Computing student and software developer from Kathmandu, Nepal.
 
-I enjoy building software that solves practical problems — from full-stack web applications to machine learning experiments and data-driven systems.
+I enjoy turning ideas into practical software — from full-stack web applications to machine learning experiments and data-driven systems.
 
-My current learning direction is **AI/ML + Data Engineering + Cloud**, supported by a foundation in full-stack development.
+My current direction is **AI/ML + Data Engineering + Cloud**, supported by a foundation in full-stack development.
 
-- Developing web applications and backend systems.
-- Exploring machine learning and AI-powered products.
+- Building web applications and backend systems.
+- Exploring machine learning and AI-powered applications.
 - Learning data processing, analytics and engineering workflows.
-- Experimenting with game development and interactive experiences.
-- Improving my skills through practical projects.
+- Experimenting with interactive applications and game development.
+- Improving through practical projects and continuous learning.
 
 ---
 
-## 02 / Selected projects
+## 02 / Featured Projects
 
 A selection of projects from my development journey.
 
@@ -52,120 +55,120 @@ A selection of projects from my development journey.
 <tr>
 <td width="50%" valign="top">
 
-**01 — NEPSE Direction Tracker**
+### 01. NEPSE Direction Tracker
 
-Stock market direction prediction dashboard using a Random Forest machine learning model.
+A stock market direction prediction dashboard using a Random Forest machine learning model to estimate the next-session NEPSE direction.
 
-`Python` `FastAPI` `Random Forest`
+**Stack:** Python · FastAPI · Random Forest
 
-[View repository →](https://github.com/Prayush-Shrestha/AI-Prediction)
+[View Project →](https://github.com/Prayush-Shrestha/AI-Prediction)
 
 </td>
 <td width="50%" valign="top">
 
-**02 — AI Research Helper**
+### 02. AI Research Helper
 
 An AI-focused project exploring research support and intelligent software.
 
-`AI` `Research` `Development`
+**Focus:** Artificial Intelligence · Research
 
-[View repository →](https://github.com/Prayush-Shrestha/ai-research-helper)
+[View Project →](https://github.com/Prayush-Shrestha/ai-research-helper)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**03 — PSPerfume**
+### 03. PSPerfume
 
 A perfume e-commerce application built around an online shopping experience.
 
-`Next.js` `Node.js` `Express` `MongoDB` `Clerk`
+**Stack:** Next.js · Node.js · Express · MongoDB · Clerk
 
-[View repository →](https://github.com/Prayush-Shrestha/PSPerfume)
+[View Project →](https://github.com/Prayush-Shrestha/PSPerfume)
 
 </td>
 <td width="50%" valign="top">
 
-**04 — TaskFlow Management System**
+### 04. TaskFlow Management System
 
 A task management system for organizing work, priorities, deadlines and assignments.
 
-`React` `Node.js` `MySQL`
+**Stack:** React · Node.js · MySQL
 
-[View repository →](https://github.com/Prayush-Shrestha/TaskFlow-Management-System)
+[View Project →](https://github.com/Prayush-Shrestha/TaskFlow-Management-System)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**05 — SewaPortal**
+### 05. SewaPortal
 
-A community services portal featuring service information, document storage, application tracking, payments, polls and issue reporting.
+A community services portal featuring public service information, document storage, application tracking, payment management, community polls and issue reporting.
 
-`Web Development` `Community Services`
+**Focus:** Web Development · Community Services
 
-[View repository →](https://github.com/Prayush-Shrestha/SewaPortal)
+[View Project →](https://github.com/Prayush-Shrestha/SewaPortal)
 
 </td>
 <td width="50%" valign="top">
 
-**06 — Hamro Khata Dashboard**
+### 06. Hamro Khata Dashboard
 
 A dashboard project focused on task and employee management.
 
-`Dashboard` `Web Development`
+**Focus:** Dashboard · Web Development
 
-[View repository →](https://github.com/Prayush-Shrestha/hamrokhata-dashboard)
+[View Project →](https://github.com/Prayush-Shrestha/hamrokhata-dashboard)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**07 — 3D Ball**
+### 07. 3D Ball
 
-An interactive 3D game exploring movement, physics and gameplay mechanics.
+An interactive 3D game exploring ball movement, physics and gameplay mechanics.
 
-`3D` `Game Development`
+**Focus:** 3D · Game Development
 
-[View repository →](https://github.com/Prayush-Shrestha/3D-Ball)
+[View Project →](https://github.com/Prayush-Shrestha/3D-Ball)
 
 </td>
 <td width="50%" valign="top">
 
-**08 — 2D Car Racing**
+### 08. 2D Car Racing
 
 A 2D racing game project exploring game mechanics and interactive gameplay.
 
-`2D` `Game Development`
+**Focus:** 2D · Game Development
 
-[View repository →](https://github.com/Prayush-Shrestha/2Dcarracing)
+[View Project →](https://github.com/Prayush-Shrestha/2Dcarracing)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**09 — Smart Coursework**
+### 09. Smart Coursework
 
 A data preparation project using Python and Jupyter Notebook.
 
-`Python` `Jupyter` `Data`
+**Stack:** Python · Jupyter Notebook
 
-[View repository →](https://github.com/Prayush-Shrestha/Smart-Coursework)
+[View Project →](https://github.com/Prayush-Shrestha/Smart-Coursework)
 
 </td>
 <td width="50%" valign="top">
 
-**10 — Wallora**
+### 10. Wallora
 
 A personal project focused on creating a modern web experience.
 
-`Web Development` `Personal Project`
+**Focus:** Web Development
 
-[View repository →](https://github.com/Prayush-Shrestha/wallora)
+[View Project →](https://github.com/Prayush-Shrestha/wallora)
 
 </td>
 </tr>
@@ -173,45 +176,105 @@ A personal project focused on creating a modern web experience.
 
 <div align="center">
 
-[EXPLORE ALL MY REPOSITORIES →](https://github.com/Prayush-Shrestha?tab=repositories)
+[EXPLORE ALL REPOSITORIES →](https://github.com/Prayush-Shrestha?tab=repositories)
 
 </div>
 
 ---
 
-## 03 / Technology stack
+## 03 / Technology Stack
 
-**Languages**
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp" alt="Programming languages"/>
+**PROGRAMMING LANGUAGES**
 
-**Frontend**
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp&theme=dark" alt="Programming languages"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" alt="Frontend technologies"/>
+<br/><br/>
 
-**Backend and databases**
+**FRONTEND DEVELOPMENT**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mysql,mongodb" alt="Backend and databases"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&theme=dark" alt="Frontend technologies"/>
 
-**Tools and platforms**
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,aws,godot,arduino" alt="Tools and platforms"/>
+**BACKEND & DATABASES**
 
----
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mysql,mongodb&theme=dark" alt="Backend and databases"/>
 
-## 04 / Current learning path
+<br/><br/>
 
-| Area | Exploring |
-|:--|:--|
-| Artificial Intelligence | Machine learning, model evaluation, AI applications |
-| Data Engineering | Data preparation, ETL, pipelines, SQL |
-| Cloud | Cloud fundamentals, deployment, infrastructure |
-| Software Engineering | Full-stack development, APIs, system design |
-| Game Development | Godot, 2D and 3D mechanics |
+**TOOLS & PLATFORMS**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,aws,godot,arduino&theme=dark" alt="Tools and platforms"/>
+
+</div>
 
 ---
 
-## 05 / Other projects
+## 04 / Current Learning Path
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### AI & Machine Learning
+
+- Python for AI/ML
+- Supervised learning
+- Classification and regression
+- Random Forest
+- Feature engineering
+- Model evaluation
+- AI-powered applications
+
+</td>
+<td width="50%" valign="top">
+
+### Data Engineering
+
+- Pandas and NumPy
+- Data cleaning and preparation
+- Exploratory data analysis
+- SQL and database design
+- ETL fundamentals
+- Data pipelines
+- Cloud fundamentals
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Software Engineering
+
+- React and Next.js
+- TypeScript and JavaScript
+- Full-stack development
+- REST APIs
+- Responsive interfaces
+- Reusable code
+- Git workflows
+
+</td>
+<td width="50%" valign="top">
+
+### Game Development
+
+- Godot and GDScript
+- 2D and 3D mechanics
+- Physics and movement
+- Collision detection
+- Game logic
+- Gameplay testing
+
+</td>
+</tr>
+</table>
+
+---
+
+## 05 / Other Projects
 
 A few more experiments and smaller applications:
 
@@ -232,21 +295,21 @@ A few more experiments and smaller applications:
 
 <div align="center">
 
-<a href="https://github.com/Prayush-Shrestha?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-244D40?style=for-the-badge" alt="Explore repositories"/>
-</a>
-
-<br/><br/>
-
 <a href="https://github.com/Prayush-Shrestha">
-<img src="https://img.shields.io/badge/FOLLOW-PRAYUSH%20SHRESTHA-244D40?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
+  <img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-183B32?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub"/>
 </a>
 
 <br/><br/>
 
-**Curiosity drives the process. Consistency builds the results.**
+<a href="https://www.linkedin.com/in/prayushshrestha07/">LinkedIn</a>
+&nbsp; · &nbsp;
+<a href="mailto:prayush1823@gmail.com">Email</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/Prayush-Shrestha?tab=repositories">Repositories</a>
 
-<br/>
+<br/><br/>
+
+### Curiosity drives the process. Consistency builds the results.
 
 <sub>DESIGNED WITH PURPOSE · BUILT THROUGH EXPERIENCE</sub>
 
