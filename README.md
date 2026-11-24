@@ -29,6 +29,47 @@ Currently, I'm focused on strengthening my technical foundation through hands-on
 
 ---
 
+<div align="center">
+
+## THE INTELLIGENT DATA ECOSYSTEM
+
+*From raw data to meaningful intelligence.*
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2200&pause=650&color=A8DCC2&center=true&vCenter=true&width=750&height=45&lines=01+%2F+DATA+INGESTION;02+%2F+DATA+CLEANING+%26+TRANSFORMATION;03+%2F+FEATURE+ENGINEERING;04+%2F+MACHINE+LEARNING+%26+ANALYTICS;05+%2F+INSIGHTS+%26+PREDICTIONS;06+%2F+CLOUD+%26+DEPLOYMENT" alt="Animated intelligent data ecosystem workflow" />
+
+<table>
+<tr>
+<td align="center" width="16%">
+<img src="https://img.shields.io/badge/01-DATA-183B32?style=for-the-badge&labelColor=101B18" alt="Data"/>
+<br/><sub>Sources</sub>
+</td>
+<td align="center" width="16%">
+<img src="https://img.shields.io/badge/02-ETL-183B32?style=for-the-badge&labelColor=101B18" alt="ETL"/>
+<br/><sub>Processing</sub>
+</td>
+<td align="center" width="16%">
+<img src="https://img.shields.io/badge/03-ML-183B32?style=for-the-badge&labelColor=101B18" alt="Machine Learning"/>
+<br/><sub>Modelling</sub>
+</td>
+<td align="center" width="16%">
+<img src="https://img.shields.io/badge/04-ANALYTICS-183B32?style=for-the-badge&labelColor=101B18" alt="Analytics"/>
+<br/><sub>Insights</sub>
+</td>
+<td align="center" width="16%">
+<img src="https://img.shields.io/badge/05-CLOUD-183B32?style=for-the-badge&labelColor=101B18" alt="Cloud"/>
+<br/><sub>Deployment</sub>
+</td>
+</tr>
+</table>
+
+**DATA → TRANSFORMATION → INTELLIGENCE → INSIGHTS → DEPLOYMENT**
+
+<sub>Exploring the technologies and engineering concepts behind intelligent, data-driven systems.</sub>
+
+</div>
+
+---
+
 ## 02 / Selected Projects
 
 A selection of projects that represent my development journey and interests across software, AI, data and interactive applications.
